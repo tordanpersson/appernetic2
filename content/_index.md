@@ -4,10 +4,11 @@ draft: false
 title: En begravningsbyrå i Stockholm för dig
 ---
 
-### Vänd Er med förtroende till oss på ABC Lilla begravningsbyrån.
+
+### Vänd Er med förtroende till oss på ABC Lilla begravningsbyrån.
 
 {{< img-post
-    path="/img" file="begravningsbyrastockholm.jpg"
+    path="img" file="begravningsbyrastockholm.jpg"
     alt="Grumpy Cat" type="right" >}}
 
 Vi hjälper Er med allt som hör begravningen till.
