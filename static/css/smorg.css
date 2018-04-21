@@ -1792,7 +1792,7 @@ a.box:active {
     color: #2b3c4e;
     text-align: left; }
   .content table tr:hover {
-    background-color: #ecf0f1; }
+    background-color: white; }
   .content table thead td,
   .content table thead th {
     border-width: 0 0 2px;
