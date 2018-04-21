@@ -6,7 +6,14 @@ slug: kontakt
 weight: 101
 ---
 
-![Startrek](https://upload.wikimedia.org/wikipedia/commons/archive/a/a8/20120607165054%21Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG)
 
-We are a little busy exploring space right now; we'll get back to you when we
-return to this solar system.
+Vi har även möteskontor i Bromma. Sedan den 1 September 2016 har kontoret flyttat från Sockenplan till Stureby nära t-banan, Handelsbankens gamla lokal. Vår nya adress är:
+ Adress: 
+Skönviksvägen 244 
+Enskede
+122 42
+ Telefon: 
+08 – 648 76 55
+ Mobiltelefon: 
+Journummer: 0760-52 44 33
+http://abclillabegravningsbyran.se/
