@@ -31,8 +31,15 @@ En begravning kan i princip kosta hur mycket pengar som helst. Men vi skräddars
 
 Med hjälp av oss på ABC Lilla begravningsbyrån, kan du välja att göra mycket utav arbetet själv. Dels för att sänka dina begravningskostnader men det kan även vara en viktig del av sorgarbetet att själv ta hand om en del av begravningen.
 
-
-
-{{< img-post
+<table style="width: 100%;" border="0" cellspacing="5" cellpadding="5" align="center">
+<tbody>
+<tr>
+<td>
+<p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
+</td>
+<td>{{< img-post
     path="img" file="begravningstockholm.jpg"
-    alt="begravning stockholm" type="right" >}}
+    alt="begravning stockholm" type="right" >}}</td>
+</tr>
+</tbody>
+</table>
