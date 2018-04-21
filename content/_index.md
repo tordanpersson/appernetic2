@@ -39,7 +39,7 @@ Med hjälp av oss på ABC Lilla begravningsbyrån, kan du välja att göra mycke
 </td>
 <td>{{< img-post
     path="img" file="begravningstockholm.jpg"
-    alt="begravning stockholm" type="right" >}}</td>
+    alt="begravning stockholm" type="center" >}}</td>
 </tr>
 </tbody>
 </table>
