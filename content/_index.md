@@ -9,7 +9,7 @@ title: En begravningsbyrå i Stockholm för dig
 
 {{< img-post
     path="img" file="begravningsbyrastockholm.jpg"
-    alt="Grumpy Cat" type="right" >}}
+    alt="begravningsbyrå stockholm" type="right" >}}
 
 ### Vi hjälper Er med allt som hör begravningen till.
 
@@ -30,3 +30,9 @@ Att förlora en anhörig eller vän kan vara det mest omvälvande vi råkar ut f
 En begravning kan i princip kosta hur mycket pengar som helst. Men vi skräddarsyr er begravning, börjar från botten och erbjuder er en av de mest prisvärda begravningarna i Stockholm.
 
 Med hjälp av oss på ABC Lilla begravningsbyrån, kan du välja att göra mycket utav arbetet själv. Dels för att sänka dina begravningskostnader men det kan även vara en viktig del av sorgarbetet att själv ta hand om en del av begravningen.
+
+
+
+{{< img-post
+    path="img" file="begravningstockholm.jpg"
+    alt="begravning stockholm" type="right" >}}
