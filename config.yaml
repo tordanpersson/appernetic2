@@ -17,8 +17,8 @@
 # Name of the theme your Hugo site uses; leave this in place:
 theme: "hugo-smorg"
 baseURL: "http://www.example.com/"
-languageCode: "en-us"
-title: "Hugo-Smorg Theme"
+languageCode: "sv-se"
+title: "ABC Lilla Begravningsbyrån"
 
 # Optional $.Site Variables ----------------------------------------------
 # More info on Site variables; https://gohugo.io/getting-started/configuration/
@@ -28,11 +28,11 @@ title: "Hugo-Smorg Theme"
 # author name appears in RSS and Atom feeds;
 # author email address is optional and can be # commented out.
 author:
-    name: "ABC Lilla Begravningsbyrån 2018"
+    name: "ABC Lilla Begravningsbyrån AB"
     email: "thisemaildoesnotexist@www.example.com"
 
 # copyright appears in the default site footer
-copyright: "&copy; ABC Lilla Begravningsbyrån 2018"
+copyright: "&copy; ABC Lilla Begravningsbyrån AB 2018, ABC Lilla begravningsbyrån AB, Skönviksvägen 244, 122 42 Enskede, tel 08-648 76 55"
 
 # metaDataFormat for new content pages generated with the `hugo new` command if
 # not otherwise specified by an archetype. Hugo-Smorg theme examples all use
@@ -136,29 +136,84 @@ menu:
         - name: "Om oss"
           url: "om-oss/"
           identifier: "om-oss"
-          weight: 20
+          weight: 50
 
-        - name: "Kontakt"
-          url: "om-oss/kontakt/"
+        - name: "Begravningsbyrå Bromma, Västerort, Vällingby, Södermalm, Norrmalm, Kungsholmen, Vasastan, Gamla stan, Östermalm, Järfälla, Spånga, Sundbyberg, Solna, Sollentuna, Huddinge, Ekerö, Haninge, Botkyrka, Danderyd, Lidingö, Nacka, Nynäshamn, Salem, Tyresö
+"
+          url: "om-oss/begravningsbyra-bromma-vaesterort-vaellingby/"
           parent: "om-oss"
-          weight: 201
+          weight: 103
+
+        - name: "Rekommendationer"
+          parent: "om-oss"
+          url: "om-oss/rekommendationer/"
+          weight: 104
+
 
         - name: "Begravningen"
           url: "begravningen/"
           identifier: "begravningen"
           weight: 10
 
-        - name: "Begravningsformen"
-          url: "begravningen/begravningsformen/"
+        - name: "Begravningsform"
+          url: "begravningen/begravningsform/"
           parent: "begravningen"
           weight: 101
 
-        - name: "XYZ-1000"
-          url: "begravningen/xyz-1000/"
+        - name: "Att se den döde"
+          url: "begravningen/att-se-den-doede/"
           parent: "begravningen"
           weight: 102
 
+        - name: "Vad gör jag nu?"
+          url: "begravningen/vad-goer-jag-nu/"
+          parent: "begravningen"
+          weight: 103
 
+        - name: "Dödsfallet"
+          url: "begravningen/doedsfallet/"
+          parent: "begravningen"
+          weight: 104
+
+        - name: "Kontakt"
+          url: "kontakt/"
+          identifier: "kontakt"
+          weight: 60
+
+        - name: "Hitta hit"
+          url: "kontakt/hitta-hit"
+          parent: "kontakt"
+          weight: 601
+
+        - name: "Priser"
+          url: "priser/"
+          identifier: "priser"
+          weight: 30
+
+        - name: "Kistor"
+          url: "priser/kistor"
+          parent: "priser"
+          weight: 301
+
+        - name: "Juridik"
+          url: "juridik/"
+          identifier: "juridik"
+          weight: 40
+
+        - name: "Bouppteckningar"
+          url: "juridik/bouppteckningar"
+          parent: "juridik"
+          weight: 401
+
+        - name: "Partners"
+          url: "partners/"
+          identifier: "partners"
+          weight: 70
+
+        - name: "Gravstenar"
+          url: "gravstenar/"
+          identifier: "gravstenar"
+          weight: 80
 
 # Syndication feeds atom.xml and rss.xml ---------------------------------
 # Adds Atom feed support in conjunction with /layouts/index.atom.xml
