@@ -13,6 +13,14 @@ layout: subsection
     path="img" file="begravningstockholm.jpg"
     alt="begravning stockholm" type="right" >}}
 
+Välkommen till oss på **ABC Lilla Begravningsbyrån**, vi hjälper er med allt inför begravningen.
+
+Vi hoppas kunna göra begravningen till ett vackert minne av en anhörig eller nära vän, till ett pris som känns rimligt. Hos oss väljer ni själva hur mycket, eller lite, ni vill ta hand om och vad ni gärna får hjälp med. Det kan vara en viktig del i bearbetningen att få möjlighet att delta i någon del av planeringen.
+
+Våra tjänster sträcker sig över allt som kan behövas och önskas för att göra begravningen så som ni vill ha den. Vi utgår alltid utifrån er och era önskemål. Tanken är att vi börjar från noll och arbetar oss fram till den begravning ni som anhöriga eller närstående önskar, utan att kostnaderna drar iväg. 
+
+Hör gärna av dig till oss per telefon för mer information!
+
 > Hej! Vill skicka ett stort tack för hjälpen med vår fars begravning i
 > Tacksägelse Kyrkan. Vi fick ett mycket bra och professionellt
 > bemötande och allt har fungerat till belåtenhet. Kommer varmt
