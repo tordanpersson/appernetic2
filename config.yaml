@@ -107,8 +107,7 @@ params:
     fullname: "ABC Lilla Begravningsbyrån"
 
     # Description: Used per fullname.
-    description: "160 characters or less describing you or your organization or your
-                  site's purpose."
+    description: "ABC Lilla Begravningsbyrå i Stockholm, vi erbjuder begravningar för lägre priser i Stockholm"
 
     # Sites should customize their logo or wordmark here; Provided via partials/logo.html.
     # used in default navigation and footer.
