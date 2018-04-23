@@ -25,9 +25,10 @@ Alla som är folkbokförda i Sverige betalar via den obligatoriska begravningsav
 
 ---
 
-{{< img-post
+
+{{< img-post
     path="img" file="begravningsbyrastockholm.jpg"
-    alt="begravningsbyrå stockholm" type="right" >}}
+    alt="Begravningen" type="right" >}}
 
 Ny begravningslag från och med 1 maj 2012
 
