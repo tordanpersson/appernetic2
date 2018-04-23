@@ -22,7 +22,7 @@ Vi vill göra begravningen till ett fint minne av anhörig eller nära vän till
 
 ### Prisexempel: begravning utan ceremoni 5.900 kronor inkl. moms
 
-Priser begravningstjänster
+[Priser begravningstjänster][2]
 
 ## Har du förlorat en nära anhörig?
 Att förlora en anhörig eller vän kan vara det mest omvälvande vi råkar ut för. För de flesta av oss innebär det en stor chock, trots att det kanske till och med var väntat. Med sorgen kommer frågor och funderingar kring döden och vad som ska hända där efter. Det är en förlust vi alla reagerar olika på. Det här är långt ifrån en normal situation och du kommer att ställas inför många nya frågeställningar.
@@ -46,3 +46,4 @@ Med hjälp av oss på ABC Lilla begravningsbyrån, kan du välja att göra mycke
 
 
   [1]: http:///billig-begravningsbyra
+  [2]: http://priser
