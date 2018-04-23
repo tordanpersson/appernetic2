@@ -39,7 +39,7 @@ Lena dotter till avlidne Lars
 
  <blockquote>
 
-Ville bara säga dig att vi är så väldigt nöjda med all den hjälp vi har fått från er runt förberedelserna kring och under ceremonin för
+Ville bara säga dig att vi är så *väldigt nöjda* med all den hjälp vi har fått från er runt förberedelserna kring och under ceremonin för
 vår mors begravning. Vad skönt det kändes att ni hade ordning på allting och att vi ändå fick utrymme att göra på det sätt vi ville. 
 
 
@@ -49,7 +49,7 @@ Vi kände efteråt, alla tre, att det inte kunnat gå bättre och att vi  verkli
 
 Jag har även fått brevet från dig med sammanställningen över dem som lämnade blommor, perfekt det underlättar när vi ska skicka ut tackkort senare.
 
- Stort tack igen för ert personliga och varma bemötande i vår svåra stund!
+ *Stort tack igen för ert personliga och varma bemötande i vår svåra stund!*
  
 
  Med vänliga hälsningar,
