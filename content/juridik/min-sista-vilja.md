@@ -13,8 +13,15 @@ Hämta skriften min sista vilja som Adobe PDF dokument."
 ---
 
 
+{{< img-post
+    path="img" file="begravningstockholm.jpg"
+    alt="Min sista vilja" type="right" >}}
+
 Här kan du ladda ner min sista vilja, ett dokument som underlättar för dina närmaste vid dit frånfälle.
 
 En önskan om hur du vill att din begravning ska se ut och genomföras.
 
-Hämta skriften min sista vilja som Adobe PDF dokument.
+[Hämta skriften min sista vilja som Adobe PDF dokument][1].
+
+
+  [1]: http://abclillabegravningsbyran.se/images/stories/minviljar1.pdf
