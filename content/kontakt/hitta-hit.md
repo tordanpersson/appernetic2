@@ -14,10 +14,13 @@ Karta:
 ## Söderort:
 
 ABC Lilla begravningsbyrån
+
 Skönviksvägen 244, 122 42 Enskede  
+
 Tel: 08 – 648 76 55  
 
 e-post: abcbegravning@gmail.com
+
 Journummer: 0760-52 44 33 öppet vardagar 09.00-17.00
 
 Vi utför begravningar i hela Storstockholm - Södermalm, Gamla stan, Norrmalm, Östermalm, Vasastan, Kungsholmen, Västerort ; Bromma, Vällingby, Järfälla, Spånga, Sundbyberg, Solna, Huddinge, Botkyrka, Danderyd, Ekerö, Haninge, Lidingö, Nacka,  Nynäshamn, Salem, Sollentuna, Solna, Sundbyberg, Södertälje, Tyresö, Täby, Upplands Väsby, Vallentuna, Värmdö, Österåker. Vid längre distanser tillkommer milersättning.
@@ -27,14 +30,20 @@ Du kan även anlita oss för begravningar i resten av landet. Då tillkommer mil
 Vi gör även om ni så önskar hembesök.
 
 
-Brommakontoret vid Brommaplan, Stopvägen 78
+## Brommakontoret vid Brommaplan, Stopvägen 78
+
 ABC Lilla begravningsbyrån Bromma
+
 Stopvägen 78
+
 Möteskontor efter överenskommelse, även kvällsmöten.
+
 Tel: 08 - 648 76 55  
 
 E-post: abcbegravning@gmail.com
+
 Öppet efter överenskommelse
+
 Journummer: 0760-52 44 33
 
 Här i Bromma kan du boka möte både dagtid, kvällstid och helger efter överenskommelse
