@@ -11,7 +11,7 @@ layout: subsection
 
 {{< img-post
     path="img" file="begravningstockholm.jpg"
-    alt="begravning stockholm" type="right" >}}
+    alt="Rekommendationer" type="right" >}}
 
 Välkommen till oss på **ABC Lilla Begravningsbyrån**, vi hjälper er med allt inför begravningen.
 
