@@ -16,6 +16,10 @@ layout: subsection
 ---
 
 
+{{< img-post
+    path="images/bilder/" file="blomma_rosa.jpg"
+    alt="Begravningen" type="right" >}}
+
 Kyrklig begravning är den begravningsceremoni som majoriteten av dem som avlider i Sverige får. Utförs ceremonin av en präst som tillhör Svenska kyrkan som officiant, görs det enligt Svenska kyrkans ordning för begravningsgudstjänst. En kyrklig begravning äger i regel rum i en kyrka eller ett kapell.
 
 Begravningen i Svenska kyrkan är avgiftsfri för medlemmarna i vilket ingår präst, musiker och lokal.
