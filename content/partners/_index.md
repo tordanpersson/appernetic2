@@ -13,7 +13,7 @@ draft: false
 ## Blommor
 ### Business Flower
 
-Sophie Enberg AB
+**Sophie Enberg AB**
 
 0761-738 428
 
