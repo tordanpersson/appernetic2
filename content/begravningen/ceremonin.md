@@ -7,7 +7,7 @@ Som anhörig möts du av vår representant, vaktmästare och prästen. Även vak
 Vid större begravningar, över ca 30 personer rekommenderar vi två representanter för medverkande. En extra representant kostar då 1400 kr. Ceremonin, själva begravningsakten, kommer att äga rum efter planering i samråd med begravningsbyrån.
 
 "
-date: 2018-03-07T02:16:58-08:00
+date: 2018-03-10T02:16:58-08:00
 draft: false
 categories: ['hugo',]
 tags: ['theme','bulma']

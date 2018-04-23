@@ -21,7 +21,7 @@ Solna, Huddinge, Botkyrka, Danderyd, Ekerö, Haninge, Järfälla, Lidingö, Nack
 Nynäshamn, Salem, Sollentuna, Solna, Sundbyberg, Södertälje, Tyresö, Täby, Upplands Väsby, Vallentuna, Värmdö, Österåker.
 
 Dock kan det bli fråga om en extra milkostnad á 95:- milen  om kyrkan eller kapellet ligger mer än två mil från centrala Stockholm."
-date: 2018-03-01
+date: 2018-03-06
 updated: 2018-04-01
 layout: subsection
 

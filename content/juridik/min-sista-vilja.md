@@ -1,6 +1,6 @@
 ---
 title: Min sista vilja
-date: 2018-03-03T09:17:17-08:00
+date: 2018-03-05T09:17:17-08:00
 draft: false
 tags: ['iot', 'recycling']
 categories: ['Juridik']

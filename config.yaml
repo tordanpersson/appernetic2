@@ -142,48 +142,70 @@ menu:
 "
           url: "om-oss/begravningsbyra-bromma-vaesterort-vaellingby/"
           parent: "om-oss"
-          weight: 103
+          weight: 502
 
         - name: "Rekommendationer"
           parent: "om-oss"
           url: "om-oss/rekommendationer/"
-          weight: 104
+          weight: 501
 
 
         - name: "Begravningen"
           url: "begravningen/"
           identifier: "begravningen"
-          weight: 10
+          weight: 20
 
         - name: "Begravningsform"
           url: "begravningen/begravningsform/"
           parent: "begravningen"
-          weight: 101
+          weight: 201
 
         - name: "Att se den döde"
           url: "begravningen/att-se-den-doede/"
           parent: "begravningen"
-          weight: 102
+          weight: 202
+
+        - name: "Ceremonin"
+          url: "begravningen/ceremonin/"
+          parent: "begravningen"
+          weight: 203
+
+        - name: "Tiden efter"
+          url: "begravningen/tiden-efter/"
+          parent: "begravningen"
+          weight: 204
+
+        - name: "Kremationsbegravning"
+          url: "begravningen/kremationsbegravning/"
+          parent: "begravningen"
+          weight: 205
+
 
         - name: "Vad gör jag nu?"
           url: "begravningen/vad-goer-jag-nu/"
           parent: "begravningen"
-          weight: 103
+          weight: 206
 
         - name: "Dödsfallet"
           url: "begravningen/doedsfallet/"
           parent: "begravningen"
-          weight: 104
+          weight: 207
+
+        - name: "Det praktiska"
+          url: "begravningen/det-praktiska/"
+          parent: "begravningen"
+          weight: 208
+
 
         - name: "Kontakt"
           url: "kontakt/"
           identifier: "kontakt"
-          weight: 60
+          weight: 10
 
         - name: "Hitta hit"
-          url: "kontakt/hitta-hit"
+          url: "kontakt/hitta-hit/"
           parent: "kontakt"
-          weight: 601
+          weight: 101
 
         - name: "Priser"
           url: "priser/"
@@ -191,9 +213,14 @@ menu:
           weight: 30
 
         - name: "Kistor"
-          url: "priser/kistor"
+          url: "priser/kistor/"
           parent: "priser"
           weight: 301
+
+        - name: "Urnor"
+          url: "priser/urnor/"
+          parent: "priser"
+          weight: 302
 
         - name: "Juridik"
           url: "juridik/"
@@ -201,19 +228,29 @@ menu:
           weight: 40
 
         - name: "Bouppteckningar"
-          url: "juridik/bouppteckningar"
+          url: "juridik/bouppteckningar/"
           parent: "juridik"
           weight: 401
+
+        - name: "Testamente"
+          url: "juridik/testamente/"
+          parent: "juridik"
+          weight: 402
+
+        - name: "Min sista vilja"
+          url: "juridik/min-sista-vilja/"
+          parent: "juridik"
+          weight: 403
 
         - name: "Partners"
           url: "partners/"
           identifier: "partners"
-          weight: 70
+          weight: 60
 
         - name: "Gravstenar"
           url: "gravstenar/"
           identifier: "gravstenar"
-          weight: 80
+          weight: 70
 
 # Syndication feeds atom.xml and rss.xml ---------------------------------
 # Adds Atom feed support in conjunction with /layouts/index.atom.xml

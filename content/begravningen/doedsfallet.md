@@ -8,7 +8,7 @@ Det är många situationer som du kommer att ställas inför som är helt nya f�
 
 Ta hjälp. Har du någon eller några som kan ordna med det mest akuta som behöver göras. För vänner och bekanta kan det vara skönt sätt att kunna bidra med något. Till och med sådana enkla saker som att handla eller laga mat till dig. Om du har du någon anhörig eller vän att prata med känns det ofta lättare?
 "
-date: 2018-03-07T02:16:58-08:00
+date: 2018-03-06T02:16:58-08:00
 draft: false
 categories: ['hugo',]
 tags: ['theme','bulma']

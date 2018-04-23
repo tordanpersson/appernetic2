@@ -2809,7 +2809,7 @@ a.box:active {
     }
 
     .image.left, .image.right {
-    max-width: 40%;
+    max-width: 80%;
 }
 
 .image {

@@ -22,7 +22,7 @@ lämna in överbliven medicin på apoteket
 samla in reservnycklar
 ändra gravrättsinnehavare till de gravar den avlidne skött om
 "
-date: 2018-03-07T02:16:58-08:00
+date: 2018-03-05T02:16:58-08:00
 draft: false
 categories: ['hugo',]
 tags: ['theme','bulma']

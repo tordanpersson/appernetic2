@@ -8,7 +8,7 @@ Begravningen i Svenska kyrkan är avgiftsfri för medlemmarna i vilket ingår pr
 
 En kyrklig begravning kan också hållas i någon frikyrka, till exempel Pingstkyrkan eller Baptistkyrkan, för deras medlemmar. Hit kan även räknas begravningar i katolska eller ortodoxa kyrkor.
 "
-date: 2018-03-07T02:16:58-08:00
+date: 2018-03-12T02:16:58-08:00
 draft: false
 categories: ['hugo',]
 tags: ['theme','bulma']
