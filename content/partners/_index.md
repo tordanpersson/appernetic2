@@ -8,7 +8,7 @@ draft: false
 
 {{< img-post
     path="images/bilder/" file="blomma_rosa.jpg"
-    alt="Partners Blommor" type="" >}}
+    alt="Partners Blommor" type="center" >}}
 
 ## Blommor
 ### Business Flower
