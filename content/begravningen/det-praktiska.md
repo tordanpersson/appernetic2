@@ -31,8 +31,12 @@ aliases: ['/begravningen/vad-goer-jag-nu/det-praktiska/']
 ---
 
 
+{{< img-post
+    path="images/bilder/" file="blomma_rosa.jpg"
+    alt="Det praktiska" type="right" >}}
 
-Att tänka på vid ett dödsfall
+
+### Att tänka på vid ett dödsfall
 
 Kontakta hyresvärd eller bostadsrättsförening och meddela dödsfallet. För hyresrätt är uppsägningstiden en månad.
 Kontakta eventuell arbetsgivare och försäkringskassa.
