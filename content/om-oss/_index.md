@@ -14,7 +14,13 @@ layout: subsection
 ---
 
 
-Vi utför begravningar i hela Storstockholm - Södermalm, Gamla stan, Norrmalm, Östermalm, Vasastan, Kungsholmen, Bromma, Vällingby, Järfälla, Spånga, Sundbyberg, Solna, Huddinge, Botkyrka, Danderyd, Ekerö, Haninge, Huddinge, Järfälla, Lidingö, Nacka,  Nynäshamn, Salem, Sollentuna, Solna, Sundbyberg, Södertälje, Tyresö, Täby, Upplands Väsby, Vallentuna, Värmdö, Österåker.
+
+{{< img-post
+    path="img" file="begravningsbyrastockholm.jpg"
+    alt="begravningsbyrå stockholm" type="right" >}}
+
+
+**Vi utför begravningar i hela Storstockholm** - Södermalm, Gamla stan, Norrmalm, Östermalm, Vasastan, Kungsholmen, Bromma, Vällingby, Järfälla, Spånga, Sundbyberg, Solna, Huddinge, Botkyrka, Danderyd, Ekerö, Haninge, Huddinge, Järfälla, Lidingö, Nacka,  Nynäshamn, Salem, Sollentuna, Solna, Sundbyberg, Södertälje, Tyresö, Täby, Upplands Väsby, Vallentuna, Värmdö, Österåker.
 
 Dock kan en milkostnad à 95:- milen tillkomma om kyrkan eller kapellet ligger mer än två mil från centrala Stockholm.
 
