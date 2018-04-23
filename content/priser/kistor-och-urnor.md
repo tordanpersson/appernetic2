@@ -23,7 +23,7 @@ aliases: ['/priser/kistor-och-urnor/']
 <tbody>
 <tr>
 <td><img style="float: left;" src="images/bilder/billigakistor.png" alt="billiga kistor" width="350" height="144" border="0" /></td>
-<td><span style="color: #ffffff;">ABCABC</span></td>
+
 <td> </td>
 </tr>
 <tr>
