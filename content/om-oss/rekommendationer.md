@@ -1,4 +1,5 @@
 ---
+
 title: Rekommendationer
 description: "Läs upppriktiga kundomdömmen om ABC Lilla begravningsbyrån i Stockholm."
 date: 2018-03-07
@@ -6,6 +7,10 @@ updated: 2018-04-01
 layout: subsection
 
 ---
+
+{{< img-post
+    path="img" file="begravningstockholm.jpg"
+    alt="begravning stockholm" type="right" >}}
 
 Hej!
 Vill skicka ett stort tack för hjälpen med vår fars begravning i Tacksägelse Kyrkan.
