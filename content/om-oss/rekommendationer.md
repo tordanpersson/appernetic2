@@ -24,6 +24,7 @@ Hör gärna av dig till oss per telefon för mer information!
 Några uppriktiga kundomdömen:
 
 <blockquote>
+
 Hej! 
 
 Vill skicka ett stort tack för hjälpen med vår fars begravning i Tacksägelse Kyrkan. 
@@ -61,6 +62,7 @@ Charlotte, Pernilla & Niclas
 
 <blockquote>
 
+
 Vi vill tacka er på ABC lilla begravningsbyrån för en väl genomförd assistans vid mammas begravning. 
 
 
@@ -85,6 +87,7 @@ Ulf W
 
 
 <blockquote>
+  
 
 Tack för arrangemangen  och vägledning omkring min bror Tommy Görans Begravning. 
 
