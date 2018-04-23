@@ -256,22 +256,34 @@ Roland
 
 </blockquote>
 
+
 <blockquote>
+
 Proffsig, trevlig begravningsbyrå
+
 
 Trevligt och proffsigt bemötande, tillmötesgående och snabba att svara på alla frågor samt lyhörda för önskemål.
 
+
 Kände mig trygg med allt kring begravningen.
 
+
 Åsa
+
 </blockquote>
 
+
 <blockquote>
+
 Vi vill tacka så mycket för er hjälp vid begravningen! 
+
 
 Vi är mycket nöjda! Ni gjorde ett fantastiskt arbete.
 
+
 Med vänlig hälsning 
 
+
 Susanna
+
 </blockquote>
