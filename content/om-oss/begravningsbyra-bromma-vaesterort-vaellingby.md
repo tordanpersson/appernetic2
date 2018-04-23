@@ -28,6 +28,10 @@ layout: subsection
 ---
 
 
+{{< img-post
+    path="img" file="begravningstockholm.jpg"
+    alt="Begravningsbyrå Bromma" type="right" >}}
+
 Här i Bromma kan du boka möte både dagtid, kvällstid och helger efter överenskommelse.
 
 ABC lilla begravningsbyrån bildades när Eaststoone's lilla begravningsbyrå och Abc begravningsbyrå gick ihop hösten 2009.
