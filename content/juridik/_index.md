@@ -18,7 +18,11 @@ Givetvis kan vi vara er behjälplig med bouppteckningar, testamenten eller annan
 ---
 
 
-När någon har avlidit ska ni som ingår i dödsboet göra en bouppteckning. Det innebär att ni går igenom och gör en skriftlig sammanställning av den avlidnes och de efterlevandes tillgångar och skulder.
+{{< img-post
+    path="img" file="begravningsbyrastockholm.jpg"
+    alt="Juridik" type="right" >}}
+
+När någon har avlidit ska ni som ingår i dödsboet göra en bouppteckning. Det innebär att ni går igenom och gör en skriftlig sammanställning av den avlidnes och de efterlevandes tillgångar och skulder.
 
 Det är inte ovanligt att avlidna saknar tillgångar och försäkringar som täcker begravningskostnader och liknande.
 
