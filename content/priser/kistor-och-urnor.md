@@ -13,7 +13,7 @@ aliases: ['/priser/kistor-och-urnor/']
 ---
 
 
-När du beställer en kremationsbegravning det vill säga en begravning med efterföljande kremering eller en så kallad direktare en direktkremation utan ceremoni eller om ni väljer en akt med urna, så behöver ni ändå en kista. Detta för att kistan hjälper till vid kremeringen.
+När du beställer en **kremationsbegravning** det vill säga en begravning med efterföljande kremering eller en så kallad direktare en direktkremation utan ceremoni eller om ni väljer en akt med urna, så behöver ni ändå en kista. Detta för att kistan hjälper till vid kremeringen.
 
 
 
