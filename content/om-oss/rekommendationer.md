@@ -110,31 +110,41 @@ Kommer att rekommendera er fina begravningsbyrå till mina vänner.
 Mvh/Michael P.
 </blockquote>
 
-
+<blockquote>
 Den 00.00.11 begravdes vår mor Britta i Liljans kapell - Råcksta.
 
 Det var en mycket ljus och fin begravning tack vare Er hjälp.
+
 Samtliga sörjande tyckte detsamma.
 
 Vi vill på detta enkla sätt sända ett stort tack.
+
 MVH
+
 gm/ Clas Göran.
+</blockquote>
 
+<blockquote>
 Hej!
+
 Jag vill tacka för eran hjälp och stöd före och under cermonin.
+
 Vänligen Anneli
+</blockquote>
 
-
+<blockquote>
 Tack för allt ni har gjort, det har funkat perfekt.
 
 Vi kommer använda er igen den dagen det blir aktuellt även om jag hoppas att det dröjer.
 
 Vänligen Ann
+</blockquote>
 
-
-
+<blockquote>
 Hej!
-Jag vill verkligen säga STORT tack för hjälpen kring min brors begravning, lova att hälsa till den underbara kollegan till dig som mötte oss i kyrkan! Allt helt fantastiskt, kunde inte ha blivit bättre! Jag rekommenderar er mer en gärna!
+
+Jag vill verkligen säga STORT tack för hjälpen kring min brors begravning, lova att hälsa till den underbara kollegan till dig som mötte oss i kyrkan! 
+Allt helt fantastiskt, kunde inte ha blivit bättre! Jag rekommenderar er mer en gärna!
 Varma hälsningar
 Ann Louise
 
