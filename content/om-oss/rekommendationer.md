@@ -30,6 +30,7 @@ Några uppriktiga kundomdömen:
 > dotter till avlidne Lars
 
  
+
  
 > Ville bara säga dig att vi är så väldigt nöjda med all den hjälp vi
 > har fått från er runt förberedelserna kring och under ceremonin för
@@ -50,6 +51,8 @@ Några uppriktiga kundomdömen:
 > Med vänliga hälsningar,
 > 
 > Charlotte, Pernilla & Niclas
+
+  
 
 
 
@@ -76,6 +79,7 @@ Några uppriktiga kundomdömen:
 > Med vänlig hälsning
 >
 > Gunilla G.
+  
 
 
 
