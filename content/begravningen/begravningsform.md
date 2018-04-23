@@ -18,9 +18,9 @@ layout: subsection
 
 {{< img-post
     path="images/bilder/" file="blomma_rosa.jpg"
-    alt="Begravningen" type="right" >}}
+    alt="Kyrklig begravning" type="right" >}}
 
-Kyrklig begravning är den begravningsceremoni som majoriteten av dem som avlider i Sverige får. Utförs ceremonin av en präst som tillhör Svenska kyrkan som officiant, görs det enligt Svenska kyrkans ordning för begravningsgudstjänst. En kyrklig begravning äger i regel rum i en kyrka eller ett kapell.
+**Kyrklig begravning** är den begravningsceremoni som majoriteten av dem som avlider i Sverige får. Utförs ceremonin av en präst som tillhör Svenska kyrkan som officiant, görs det enligt Svenska kyrkans ordning för begravningsgudstjänst. En kyrklig begravning äger i regel rum i en kyrka eller ett kapell.
 
 Begravningen i Svenska kyrkan är avgiftsfri för medlemmarna i vilket ingår präst, musiker och lokal.
 
@@ -28,11 +28,11 @@ Begravningen i Svenska kyrkan är avgiftsfri för medlemmarna i vilket ingår pr
 
 En kyrklig begravning kan också hållas i någon frikyrka, till exempel Pingstkyrkan eller Baptistkyrkan, för deras medlemmar. Hit kan även räknas begravningar i katolska eller ortodoxa kyrkor.
 
-Borgerlig begravning innebär att man i princip kan lägga upp begravningen efter eget tycke och smak. Med ett bildspel, spela den avlidnes favoritsånger på cd eller hyra en orkester. Åka på en Ålandskryss och strö den dödes aska i havet.
+**Borgerlig begravning** innebär att man i princip kan lägga upp begravningen efter eget tycke och smak. Med ett bildspel, spela den avlidnes favoritsånger på cd eller hyra en orkester. Åka på en Ålandskryss och strö den dödes aska i havet.
 
 Det krävs ingen utbildning för att leda en borgerlig begravning, i stort sett kan vem som helst leda ceremonin, exempelvis en vän till den avlidne, I vissa kommuner utses officianterna av kommunfullmäktige.
 
-Man kan även ordna en ceremoni i egen regi.
+Man kan även ordna en **ceremoni i egen regi**.
 
 Då beställer man en kremation utan ceremoni. Efter det hämtar ni själva askan vid krematoriet för att ha en akt med urna i valfri lokal/hemma hos någon.
 
