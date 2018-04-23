@@ -8,15 +8,16 @@ layout: subsection
 
 ---
 
-{{< img-post
+
+{{< img-post
     path="img" file="begravningstockholm.jpg"
     alt="begravning stockholm" type="right" >}}
 
-Hej!
-Vill skicka ett stort tack för hjälpen med vår fars begravning i Tacksägelse Kyrkan.
-Vi fick ett mycket bra och professionellt bemötande och allt har fungerat till belåtenhet. Kommer varmt rekommendera er för vänner och bekanta.
-Med vänliga hälsningar
-Lena dotter till avlidne Lars
+> Hej! Vill skicka ett stort tack för hjälpen med vår fars begravning i
+> Tacksägelse Kyrkan. Vi fick ett mycket bra och professionellt
+> bemötande och allt har fungerat till belåtenhet. Kommer varmt
+> rekommendera er för vänner och bekanta. Med vänliga hälsningar Lena
+> dotter till avlidne Lars
 
 
 
