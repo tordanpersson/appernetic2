@@ -14,6 +14,9 @@ Bouppteckningen ska därefter registreras hos Skatteverket. En registrerad boupp
 ---
 
 
+{{< img-post
+    path="img" file="begravningstockholm.jpg"
+    alt="Bouppteckningar" type="right" >}}
 
 Vi hjälper dig med bouppteckningar, grundpriset är 5.690 kr. Om det tar längre tid än tre timmar debiteras ytterligare 790 kr i timmen.
 
