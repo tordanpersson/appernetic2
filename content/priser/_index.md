@@ -15,6 +15,9 @@ Vi finns här för er."
 ---
 
 
+{{< img-post
+    path="img" file="begravningsbyrastockholm.jpg"
+    alt="Priser" type="right" >}}
 
 Priset på en begravning varierar beroende på dina önskemål. Här har vi
 på ABC Lilla begravningsbyrån tagit fram några prisexempel.
