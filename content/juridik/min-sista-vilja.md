@@ -24,4 +24,4 @@ En önskan om hur du vill att din begravning ska se ut och genomföras.
 [Hämta skriften min sista vilja som Adobe PDF dokument][1].
 
 
-  [1]: http://abclillabegravningsbyran.se/images/stories/minviljar1.pdf
+  [1]: minviljar1.pdf
