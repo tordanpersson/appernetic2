@@ -18,7 +18,7 @@ Vi kan vara er behjälpliga och upprätta ett testamente."
 
 {{< img-post
     path="img" file="begravningstockholm.jpg"
-    alt="Testamente" type
+    alt="Testamente" type="right" >}}
 
 När någon avlider bildas ett dödsbo som förvaltas av dödsbodelägarna.
 
