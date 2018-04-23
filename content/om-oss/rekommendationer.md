@@ -194,6 +194,12 @@ Kände mig trygg med allt kring begravningen.
 Åsa
 </blockquote>
 
+<blockquote>
+Vi vill tacka så mycket för er hjälp vid begravningen! 
 
-Vi vill tacka så mycket för er hjälp vid begravningen! Vi är mycket nöjda! Ni gjorde ett fantastiskt arbete.
-Med vänlig hälsning Susanna
+Vi är mycket nöjda! Ni gjorde ett fantastiskt arbete.
+
+Med vänlig hälsning 
+
+Susanna
+</blockquote>
