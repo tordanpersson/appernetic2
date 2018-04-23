@@ -11,8 +11,7 @@ layout: subsection
 ---
 
 
-
-{{< img-post
+{{< img-post
     path="images/bilder/" file="blomma_rosa.jpg"
     alt="Kremationsbegravning" type="right" >}}
 
@@ -21,4 +20,4 @@ Efter begravningsceremonin körs kistan till krematoriet av **ABC Lilla begravni
 Askan förvaras därefter på krematoriet tills gravsättning eller uthämtning sker. Askan måste hämtas ut eller gravsättas inom ett år. Urnbegravning är möjlig om du så önskar, detta blir vanligare nu när nya begravningslagen trädde i kraft då man ska gravsättas eller kremeras senast en månad efter dödsfallet. Vid detta tillfälle sker kremeringen, innan [ceremonin][1] äger rum. Här har du också möjlighet att vara med vid själva kremeringen/insättningen av kistan om du så önskar.
 
 
-  [1]: http://abclillabegravningsbyran.se/begravningen/ceremonin
+  [1]: begravningen/ceremonin
