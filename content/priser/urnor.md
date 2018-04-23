@@ -138,7 +138,7 @@ Kremering innebär att den avlidne förbränns och blir till aska. Efter att kre
 
 Vid begravningar i *askgravlund* eller på en *askgravplats*, så står i regel kyrkogårdsförvaltningarna för en sammetspåse vid gravsättningen. Så inte heller där behövs en urna.
 
-Den billigaste urnan vi har att erbjuda för en enkel urna, är en enkel pappersurna för 490 kronor.
+Den **billigaste urnan** vi har att erbjuda för en enkel urna, är en enkel pappersurna för 490 kronor.
 
 Ett annat alternativ till en billig urna är en enkel sammetspåse för 390 kronor.
 
@@ -146,7 +146,7 @@ En annat variant om man önskar exempelvis gravsättning i en minneslund är att
 
 Tänk då på att rymdmåttet bör vara minst fyra liter för urnan så man kan lägga ner kartongen med askan i urnan med en stor öppning på femton x femton plus ett djup på femton cm.
 
-Ett annat billigt urnalternativ är att man hyr en urna för 390 kronor av oss här på ABC i Stockholm, då kan man använda sig av modell 210 eller modell 100.
+Ett annat billigt urnalternativ är att man hyr en urna för 390 kronor av oss här på **ABC Lilla Begravningsbyrå i Stockholm**, då kan man använda sig av modell 210 eller modell 100.
 
 Vi har även andra hyrurnor att erbjuda till ceremonin.
 
