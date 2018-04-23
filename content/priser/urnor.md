@@ -9,8 +9,7 @@ description: "Vi har urnor i Stockholm med olika former, material och prisnivåe
 ---
 
 
-
-Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billiga urnor och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar begravningsceremoni.
+Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *billiga urnor* och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar **begravningsceremoni**.
 
 <table class="table">
 <tbody>
