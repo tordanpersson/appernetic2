@@ -14,6 +14,10 @@ layout: subsection
 ---
 
 
+{{< img-post
+    path="images/bilder/" file="blomma_rosa.jpg"
+    alt="Att se den avlidne, visning" type="right" >}}
+
 Om Ni så önskar kan ni givetvis ta farväl av den avlidne genom att vi på ABC Lilla begravningsbyrå genomför en så kallad visning.
 
 Detta kan vara önskvärt om ni exempelvis har valt att genomföra en begravning utan ceremoni. Här har ni ändå chans att ta ett sista farväl av den avlidne i en stängd eller öppen kista.
