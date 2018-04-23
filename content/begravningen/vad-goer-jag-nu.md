@@ -17,6 +17,10 @@ aliases: ['/begravningen/vad-goer-jag-nu/']
 ---
 
 
+{{< img-post
+    path="img" file="begravningsbyrastockholm.jpg"
+    alt="Vad gör jag nu?" type="right" >}}
+
 Den vanligaste uppmaningen man får när någon har gått bort, är att ta det lugnt. Och visst kan man vänta någon dag innan man sätter igång med alla bestyr. Men det är ju trots allt först när begravningen väl är genomförd som det egentliga sorgearbetet kan börja.
 
 Vi rekommenderar att man försöker ha begravningen inom två-tre veckor efter det att någon har avlidit.
