@@ -22,7 +22,12 @@ Alla som är folkbokförda i Sverige betalar via den obligatoriska begravningsav
 * förvaring av aska på  krematoriet (max 1 år)
 * gravplats
 * gravsättning"
+
 ---
+
+{{< img-post
+    path="img" file="begravningsbyrastockholm.jpg"
+    alt="begravningsbyrå stockholm" type="right" >}}
 
 Ny begravningslag från och med 1 maj 2012
 
