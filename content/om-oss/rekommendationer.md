@@ -62,7 +62,7 @@ Hälsningar
 Ulf W
  
  Som sagt, tack för allt.
-
+</blockquote>
 
 Tack för arrangemangen  och vägledning omkring min bror Tommy Görans Begravning. Arrangemangen gav lugn och ro och blev  en stund av stillhet.
   
