@@ -16,8 +16,8 @@
 # Every site needs these few: theme, baseURL, languageCode and title
 # Name of the theme your Hugo site uses; leave this in place:
 theme: "hugo-smorg"
-baseURL: "http://www.example.com/"
-languageCode: "sv-se"
+baseURL: "https://tordanpersson.github.io/"
+languageCode: "sv-SE"
 title: "ABC Lilla Begravningsbyrån"
 
 # Optional $.Site Variables ----------------------------------------------
