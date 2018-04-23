@@ -186,50 +186,74 @@ Vi kommer använda er igen den dagen det blir aktuellt även om jag hoppas att d
 
 
 Vänligen Ann
+
 </blockquote>
 
+
 <blockquote>
+
 Hej!
+
 
 Jag vill verkligen säga STORT tack för hjälpen kring min brors begravning, lova att hälsa till den underbara kollegan till dig som mötte oss i kyrkan! 
 
+
 Allt helt fantastiskt, kunde inte ha blivit bättre! Jag rekommenderar er mer en gärna!
+
 
 Varma hälsningar
 
+
 Ann Louise
+
 </blockquote>
+
 
 
 <blockquote>
 Hej 
 
+
 Anna här ville bara tacka för ett väl utfört jobb, vi är mycket nöjda.
+
 
 </blockquote>
 
+
 <blockquote>
+
 Hälsningar från anhöriga till Henry, begravdes 1208?? Brännkyrka kyrka.
+
 
 Hälsa också till Helena Vita Bergens blomster att hon hade gjort ett jätte fint arbete. 
 
+
 Tack och åter tack!!!!!
+
 
 MVH
 
+
 Kerstin, dotter.
+
 </blockquote>
 
+
 <blockquote>
+
 En bra begravningsbyrå
 
 Tryggt, sakligt och respektfullt gav företagets representanter råd och stöd i en svår stund som vi inte hade varit inblandade i tidigare.
 
+
 Vi fick en mycket fin ceremoni på rätt nivå, helt utifrån våra önskemål.
+
 
 Vi är mycket nöjda och kan rekommendera den här begravningsbyrån.
 
+
 Roland
+
 </blockquote>
 
 <blockquote>
