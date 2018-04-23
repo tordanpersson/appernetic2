@@ -19,4 +19,7 @@ draft: false
 
 E-mail:   sophie@businessflower.se
 
-Hemsida:  www.businessflower.se
+Hemsida:  [www.businessflower.se][1]
+
+
+  [1]: http://www.businessflower.se
