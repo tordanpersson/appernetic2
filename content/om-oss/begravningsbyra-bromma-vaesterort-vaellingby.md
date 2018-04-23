@@ -28,7 +28,8 @@ layout: subsection
 ---
 
 
-{{< img-post
+
+{{< img-post
     path="img" file="begravningstockholm.jpg"
     alt="Begravningsbyrå Bromma" type="right" >}}
 
@@ -44,7 +45,7 @@ Tillsammans med våra samarbetspartners håller vi bland de lägsta priserna i S
 
 
 
-Vi utför begravningar i hela Storstockholm - Södermalm, Gamla stan, Norrmalm,
+**Vi utför begravningar i hela Storstockholm** - Södermalm, Gamla stan, Norrmalm,
 
 Östermalm, Vasastan, Kungsholmen, Bromma, Vällingby, Järfälla, Spånga, Sundbyberg,
 
