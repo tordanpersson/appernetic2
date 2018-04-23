@@ -23,12 +23,12 @@ Hör gärna av dig till oss per telefon för mer information!
 
 Några uppriktiga kundomdömen:
 
-> Hej! Vill skicka ett stort tack för hjälpen med vår fars begravning i
-> Tacksägelse Kyrkan. Vi fick ett mycket bra och professionellt
-> bemötande och allt har fungerat till belåtenhet. Kommer varmt
-> rekommendera er för vänner och bekanta. Med vänliga hälsningar Lena
-> dotter till avlidne Lars
+<blockquote>
+Hej! 
+Vill skicka ett stort tack för hjälpen med vår fars begravning i Tacksägelse Kyrkan. Vi fick ett mycket bra och professionellt bemötande och allt har fungerat till belåtenhet. Kommer varmt rekommendera er för vänner och bekanta. 
 
+Med vänliga hälsningar Lena dotter till avlidne Lars
+<blockquote>
  
 
  
