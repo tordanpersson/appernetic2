@@ -25,9 +25,13 @@ Några uppriktiga kundomdömen:
 
 <blockquote>
 Hej! 
-Vill skicka ett stort tack för hjälpen med vår fars begravning i Tacksägelse Kyrkan. Vi fick ett mycket bra och professionellt bemötande och allt har fungerat till belåtenhet. Kommer varmt rekommendera er för vänner och bekanta. 
+Vill skicka ett stort tack för hjälpen med vår fars begravning i Tacksägelse Kyrkan. 
 
-Med vänliga hälsningar Lena dotter till avlidne Lars
+Vi fick ett mycket bra och professionellt bemötande och allt har fungerat till belåtenhet. Kommer varmt rekommendera er för vänner och bekanta. 
+
+Med vänliga hälsningar 
+
+Lena dotter till avlidne Lars
 </blockquote>
  
 
@@ -64,7 +68,11 @@ Ulf W
  Som sagt, tack för allt.
 </blockquote>
 
-Tack för arrangemangen  och vägledning omkring min bror Tommy Görans Begravning. Arrangemangen gav lugn och ro och blev  en stund av stillhet.
+
+<blockquote>
+Tack för arrangemangen  och vägledning omkring min bror Tommy Görans Begravning. 
+
+Arrangemangen gav lugn och ro och blev  en stund av stillhet.
   
 Med vänlig hälsning
 
