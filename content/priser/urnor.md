@@ -129,13 +129,14 @@ description: "Vi har urnor i Stockholm med olika former, material och prisnivåe
 </table>
 
 ## Bra att veta om urnor och urnbegravningar 
-Urnbegravning blir vanligare nu när nya begravningslagen trädde i kraft för några år sen som sa att man då ska gravsättas eller kremeras senast en månad efter dödsfallet.
+
+**Urnbegravning** blir vanligare nu när nya begravningslagen trädde i kraft för några år sen som sa att man då ska gravsättas eller kremeras senast en månad efter dödsfallet.
 
 Kremering innebär att den avlidne förbränns och blir till aska. Efter att kremeringen har genomförts behöver askan förvaras i någon form av behållare. Krematoriet placerar den avlidnes aska i en mycket enkel form av urna, en pappkartong.
 
-Kartongen från krematoriet är fullt tillräcklig vid gravsättning i minneslund, då behövs ingen urna, för vid gravsättning i minneslund strör man ut askan eller gräver ner den. Man får ej vara med då askan sprids, utan får bara ett meddelande när gravsättningen är gjord.
+*Kartongen* från krematoriet är fullt tillräcklig vid gravsättning i minneslund, då behövs ingen urna, för vid gravsättning i minneslund strör man ut askan eller gräver ner den. Man får ej vara med då askan sprids, utan får bara ett meddelande när gravsättningen är gjord.
 
-Vid begravningar i askgravlund eller på en askgravplats, så står i regel kyrkogårdsförvaltningarna för en sammetspåse vid gravsättningen. Så inte heller där behövs en urna.
+Vid begravningar i *askgravlund* eller på en *askgravplats*, så står i regel kyrkogårdsförvaltningarna för en sammetspåse vid gravsättningen. Så inte heller där behövs en urna.
 
 Den billigaste urnan vi har att erbjuda för en enkel urna, är en enkel pappersurna för 490 kronor.
 
