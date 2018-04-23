@@ -77,24 +77,30 @@ Arrangemangen gav lugn och ro och blev  en stund av stillhet.
 Med vänlig hälsning
 
 Gunilla G.
-  
+  </blockquote>
 
 
-
+<blockquote>
 Tack för all hjälp och stöd kring min fina mammas begravning.
 
 Annsofie
+</blockquote>
 
 
+<blockquote>
+Vi vill tacka Er på ABC Lilla begravningsbyrån för det mycket förtjänstfulla arbete som ni utförde i samband med begravningen den 31 mars, av min hustru Grete. 
 
-Vi vill tacka Er på ABC Lilla begravningsbyrån för det mycket förtjänstfulla arbete som ni utförde i samband med begravningen den 31 mars, av min hustru Grete. Vi uppskattade särskilt att Ni tog Er tid att hjälpa oss med alla frågor som hänger ihop med en begravning. Många av de närvarande har tackat oss och meddelat att begravningen, i allt, var vacker och fint arrangerat.
+Vi uppskattade särskilt att Ni tog Er tid att hjälpa oss med alla frågor som hänger ihop med en begravning. 
+
+Många av de närvarande har tackat oss och meddelat att begravningen, i allt, var vacker och fint arrangerat.
 
 Med vänlig hälsning
 
 Bertil K. och barnen
+</blockquote>
 
 
-
+<blockquote>
 Hej jag vill tacka er för ett professionellt handläggande samt ert trevliga deltagande vid min mormors begravning.
 
 Jag värdesätter ert fina och hjärtliga bemötande från mitt hjärta.
@@ -102,7 +108,7 @@ Jag värdesätter ert fina och hjärtliga bemötande från mitt hjärta.
 Kommer att rekommendera er fina begravningsbyrå till mina vänner.
 
 Mvh/Michael P.
-
+</blockquote>
 
 
 Den 00.00.11 begravdes vår mor Britta i Liljans kapell - Råcksta.
