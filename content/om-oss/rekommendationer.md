@@ -25,6 +25,7 @@ Några uppriktiga kundomdömen:
 
 <blockquote>
 Hej! 
+
 Vill skicka ett stort tack för hjälpen med vår fars begravning i Tacksägelse Kyrkan. 
 
 Vi fick ett mycket bra och professionellt bemötande och allt har fungerat till belåtenhet. Kommer varmt rekommendera er för vänner och bekanta. 
@@ -36,45 +37,63 @@ Lena dotter till avlidne Lars
  
 
  <blockquote>
+
 Ville bara säga dig att vi är så väldigt nöjda med all den hjälp vi har fått från er runt förberedelserna kring och under ceremonin för
 vår mors begravning. Vad skönt det kändes att ni hade ordning på allting och att vi ändå fick utrymme att göra på det sätt vi ville. 
 
+
 Vi kände efteråt, alla tre, att det inte kunnat gå bättre och att vi  verkligen hade tur att ni hade tid med oss. Vi ska förstås varmt 
  rekommendera er till andra.
+
 
 Jag har även fått brevet från dig med sammanställningen över dem som lämnade blommor, perfekt det underlättar när vi ska skicka ut tackkort senare.
 
  Stort tack igen för ert personliga och varma bemötande i vår svåra stund!
  
+
  Med vänliga hälsningar,
  
+
 Charlotte, Pernilla & Niclas
+
 </blockquote>
   
 
 <blockquote>
+
 Vi vill tacka er på ABC lilla begravningsbyrån för en väl genomförd assistans vid mammas begravning. 
+
 
 Pappa är mycket nöjd med all den hjälp som ni bistod med och det enkla och smidiga sätt som ni hanterade alla de moment som en begravning innebär. 
 
+
 Vi har hela tiden fått ett trevligt bemötande och det kändes aldrig tungt att prata eller fråga er om olika saker. Hela ceremonin blev väldigt fin och stämningsfull.  Dessutom har ni gjort detta till ett bra pris och vi känner att vi fått valuta för pengarna. 
+
 
 Vi vill på detta enkla sätt ge er de bästa rekommendationer och kommer absolut att anlita er igen när den dagen kommer, även fast vi hoppas på att det dröjer.
 
+
 Hälsningar
  
+
 Ulf W
  
+
  Som sagt, tack för allt.
+
 </blockquote>
 
 
 <blockquote>
+
 Tack för arrangemangen  och vägledning omkring min bror Tommy Görans Begravning. 
+
 
 Arrangemangen gav lugn och ro och blev  en stund av stillhet.
   
+
 Med vänlig hälsning
+
 
 Gunilla G.
   </blockquote>
