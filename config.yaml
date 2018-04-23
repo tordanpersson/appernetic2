@@ -97,7 +97,7 @@ params:
 
     # cssPath: <css/smorg.css> site main CSS; can be supplemented by including
     # link or style elements in a custom site partials/head-custom.html
-    cssPath: 'css/smorg.css' # Default, override here
+    cssPath: 'css/smorg.min.css' # Default, override here
 
     # only_feed_summaries: Include only Page summaries in Atom and RSS feeds.
     only_feed_summaries: true
