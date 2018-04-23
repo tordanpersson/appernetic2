@@ -28,9 +28,9 @@ Några uppriktiga kundomdömen:
 > bemötande och allt har fungerat till belåtenhet. Kommer varmt
 > rekommendera er för vänner och bekanta. Med vänliga hälsningar Lena
 > dotter till avlidne Lars
-> 
-> 
-> 
+
+ 
+ 
 > Ville bara säga dig att vi är så väldigt nöjda med all den hjälp vi
 > har fått från er runt förberedelserna kring och under ceremonin för
 > vår mors begravning. Vad skönt det kändes att ni hade ordning på
@@ -53,15 +53,22 @@ Några uppriktiga kundomdömen:
 
 
 
-
-
-Vi vill tacka er på ABC lilla begravningsbyrån för en väl genomförd assistans vid mammas begravning. Pappa är mycket nöjd med all den hjälp som ni bistod med och det enkla och smidiga sätt som ni hanterade alla de moment som en begravning innebär. Vi har hela tiden fått ett trevligt bemötande och det kändes aldrig tungt att prata eller fråga er om olika saker. Hela ceremonin blev väldigt fin och stämningsfull.  Dessutom har ni gjort detta till ett bra pris och vi känner att vi fått valuta för pengarna. Vi vill på detta enkla sätt ge er de bästa rekommendationer och kommer absolut att anlita er igen när den dagen kommer, även fast vi hoppas på att det dröjer.
-
-Hälsningar
-
-Ulf W
-
-Som sagt, tack för allt.
+> Vi vill tacka er på ABC lilla begravningsbyrån för en väl genomförd
+> assistans vid mammas begravning. Pappa är mycket nöjd med all den
+> hjälp som ni bistod med och det enkla och smidiga sätt som ni
+> hanterade alla de moment som en begravning innebär. Vi har hela tiden
+> fått ett trevligt bemötande och det kändes aldrig tungt att prata
+> eller fråga er om olika saker. Hela ceremonin blev väldigt fin och
+> stämningsfull.  Dessutom har ni gjort detta till ett bra pris och vi
+> känner att vi fått valuta för pengarna. Vi vill på detta enkla sätt ge
+> er de bästa rekommendationer och kommer absolut att anlita er igen när
+> den dagen kommer, även fast vi hoppas på att det dröjer.
+> 
+> Hälsningar
+> 
+> Ulf W
+> 
+> Som sagt, tack för allt.
 
 
 Tack för arrangemangen  och vägledning omkring min bror Tommy Görans Begravning. Arrangemangen gav lugn och ro och blev en stund av stillhet.
