@@ -45,5 +45,5 @@ Med hjälp av oss på ABC Lilla begravningsbyrån, kan du välja att göra mycke
 </table>
 
 
-  [1]: http:///billig-begravningsbyra
-  [2]: http://priser
+  [1]: billig-begravningsbyra
+  [2]: priser
