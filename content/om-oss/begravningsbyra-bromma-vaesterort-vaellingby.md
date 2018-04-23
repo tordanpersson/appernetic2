@@ -38,7 +38,7 @@ ABC lilla begravningsbyrån bildades när Eaststoone's lilla begravningsbyrå oc
 
 Båda företagen hade en önskan om att kunna hjälpa människor i en svår tid, att få en begravning till en rimlig kostnad.
 
-En av anledningarna till att vi kan hålla så låga priser är att vi själva importerar begravningskistor och urnor.
+En av anledningarna till att vi kan hålla så låga priser är att vi själva importerar [begravningskistor][1] och urnor.
 
 Tillsammans med våra samarbetspartners håller vi bland de lägsta priserna i Stockholm.
 
@@ -53,3 +53,6 @@ Solna, Huddinge, Botkyrka, Danderyd, Ekerö, Haninge, Järfälla, Lidingö, Nack
 Nynäshamn, Salem, Sollentuna, Solna, Sundbyberg, Södertälje, Tyresö, Täby, Upplands Väsby, Vallentuna, Värmdö, Österåker.
 
 Dock kan det bli fråga om en extra milkostnad á 95:- milen  om kyrkan eller kapellet ligger mer än två mil från centrala Stockholm.
+
+
+  [1]: begravningskista
