@@ -31,8 +31,7 @@ aliases: ['/begravningen/vad-goer-jag-nu/det-praktiska/']
 ---
 
 
-
-{{< img-post
+{{< img-post
     path="images/bilder/" file="blomma_rosa.jpg"
     alt="Det praktiska" type="right" >}}
 
@@ -57,8 +56,8 @@ Tänk också på:
  * sänka värmen
  * återlämna eventuella handikapphjälpmedel
  * lämna in överbliven medicin på apoteket
-samla in reservnycklar
-ändra gravrättsinnehavare till de gravar den avlidne skött om
+ * samla in reservnycklar
+ * ändra gravrättsinnehavare till de gravar den avlidne skött om
 
 Om inga tillgångar finns i dödsboet, kan begravningshjälp erhållas från Socialförvaltningen i kommunen eller Stadsdelsförvaltningarna i Stockholm.
 
