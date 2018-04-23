@@ -9,7 +9,7 @@ description: "Vi har urnor i Stockholm med olika former, material och prisnivåe
 ---
 
 
-Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *billiga urnor* och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar **begravningsceremoni**.
+Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *billiga urnor* och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar **[begravningsceremoni][1]**.
 
 <table class="table">
 <tbody>
@@ -148,3 +148,6 @@ Tänk då på att rymdmåttet bör vara minst fyra liter för urnan så man kan 
 Ett annat billigt urnalternativ är att man hyr en urna för 390 kronor av oss här på ABC i Stockholm, då kan man använda sig av modell 210 eller modell 100.
 
 Vi har även andra hyrurnor att erbjuda till ceremonin.
+
+
+  [1]: begravningen/ceremonin/
