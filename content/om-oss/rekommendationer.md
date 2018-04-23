@@ -144,19 +144,31 @@ Vänligen Ann
 Hej!
 
 Jag vill verkligen säga STORT tack för hjälpen kring min brors begravning, lova att hälsa till den underbara kollegan till dig som mötte oss i kyrkan! 
+
 Allt helt fantastiskt, kunde inte ha blivit bättre! Jag rekommenderar er mer en gärna!
+
 Varma hälsningar
+
 Ann Louise
+</blockquote>
 
 
+<blockquote>
+Hej 
 
-Hej Anna här ville bara tacka för ett väl utfört jobb, vi är mycket nöjda.
+Anna här ville bara tacka för ett väl utfört jobb, vi är mycket nöjda.
 
+</blockquote>
 
-
+<blockquote>
 Hälsningar från anhöriga till Henry, begravdes 1208?? Brännkyrka kyrka.
-Hälsa också till Helena Vita Bergens blomster att hon hade gjort ett jätte fint arbete. Tack och åter tack!!!!!
+
+Hälsa också till Helena Vita Bergens blomster att hon hade gjort ett jätte fint arbete. 
+
+Tack och åter tack!!!!!
+
 MVH
+
 Kerstin, dotter.
 En bra begravningsbyrå
 Tryggt, sakligt och respektfullt gav företagets representanter råd och stöd i en svår stund som vi inte hade varit inblandade i tidigare.
