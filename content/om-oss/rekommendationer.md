@@ -104,6 +104,7 @@ Gunilla G.
 
 
 <blockquote>
+  
 
 Tack för all hjälp och stöd kring min fina mammas begravning.
 
@@ -114,6 +115,7 @@ Annsofie
 
 
 <blockquote>
+  
 
 Vi vill tacka Er på ABC Lilla begravningsbyrån för det mycket förtjänstfulla arbete som ni utförde i samband med begravningen den 31 mars, av min hustru Grete. 
 
@@ -133,6 +135,7 @@ Bertil K. och barnen
 
 
 <blockquote>
+  
 
 Hej jag vill tacka er för ett professionellt handläggande samt ert trevliga deltagande vid min mormors begravning.
 
@@ -145,8 +148,10 @@ Kommer att rekommendera er fina begravningsbyrå till mina vänner.
 Mvh/Michael P.
 
 </blockquote>
+  
 
 <blockquote>
+  
 
 Den 00.00.11 begravdes vår mor Britta i Liljans kapell - Råcksta.
 
@@ -168,6 +173,7 @@ gm/ Clas Göran.
 
 
 <blockquote>
+  
 
 Hej!
 
@@ -181,6 +187,7 @@ Vänligen Anneli
 
 
 <blockquote>
+  
 
 Tack för allt ni har gjort, det har funkat perfekt.
 
@@ -194,6 +201,7 @@ Vänligen Ann
 
 
 <blockquote>
+  
 
 Hej!
 
@@ -214,6 +222,9 @@ Ann Louise
 
 
 <blockquote>
+
+  
+
 Hej 
 
 
@@ -222,8 +233,10 @@ Anna här ville bara tacka för ett väl utfört jobb, vi är mycket nöjda.
 
 </blockquote>
 
+  
 
 <blockquote>
+  
 
 Hälsningar från anhöriga till Henry, begravdes 1208?? Brännkyrka kyrka.
 
@@ -243,6 +256,7 @@ Kerstin, dotter.
 
 
 <blockquote>
+  
 
 En bra begravningsbyrå
 
@@ -261,6 +275,7 @@ Roland
 
 
 <blockquote>
+  
 
 Proffsig, trevlig begravningsbyrå
 
