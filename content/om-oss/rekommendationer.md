@@ -71,11 +71,11 @@ Några uppriktiga kundomdömen:
 > Som sagt, tack för allt.
 
 
-Tack för arrangemangen  och vägledning omkring min bror Tommy Görans Begravning. Arrangemangen gav lugn och ro och blev en stund av stillhet.
-
-Med vänlig hälsning
-
-Gunilla G.
+> Tack för arrangemangen  och vägledning omkring min bror Tommy Görans Begravning. Arrangemangen gav lugn och ro och blev  en stund av stillhet.
+> 
+> Med vänlig hälsning
+>
+> Gunilla G.
 
 
 
