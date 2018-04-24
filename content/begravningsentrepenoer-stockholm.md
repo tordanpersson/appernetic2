@@ -3,7 +3,8 @@ title: ABC Lilla begravningsbyrån, begravningsentreprenör Stockholm
 description: "ABC lilla begravningsbyrån, begravningsentreprenör Stockholm bildades när Eaststoone's lilla begravningsbyrå och Abc begravningsbyrå gick ihop hösten 2009. Båda företagen hade en önskan om att kunna hjälpa människor i en svår tid, att inte utnyttja människor som är i en prekär situation. Begravningsentreprenör Södermalm, Gamla stan, Norrmalm, Östermalm, Vasastan, Kungsholmen, Bromma, Vällingby, Järfälla, Spånga, Sundbyberg, Solna, Huddinge, Botkyrka, Danderyd, Ekerö, Haninge, Järfälla, Lidingö, Nacka, Norrtälje, Nykvarn"
 date: 2018-03-01
 updated: 2018-04-01
-aliases: ['/begravningsentrepenoer-stockholm-sp-115732469/']
+aliases: ['/begravningsentrepenoer-stockholm-sp-115732469/', '/begravningsentreprenoer-soedermalm-gamla-stan-norrmalm-oestermalm-vasastan-kungsholmen-bromma-vaellingby-jaerfaella-spanga-sundbyberg-solna-huddinge-botkyrka-danderyd-ekeroe-haninge-jaerfaella-lidingoe-nacka-norrtaelje-nykvarn/']
+
 ---
 
 
