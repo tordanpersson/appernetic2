@@ -16,12 +16,12 @@ updated: 2018-04-01
 
 ## ABC Lilla begravningsbyrån AB Vacker Värdigt Prisvärt en billig begravningsbyrå
 ### Vänd Er med förtroende till oss, på ABC Lilla begravningsbyrån, Stockholm.
+ 
+### Vi hjälper Er med allt som hör begravningen till.
 
 {{< img-post
     path="images/bilder/" file="billigbegravning.jpg"
     alt="billig begravning" type="right" >}}
- 
-### Vi hjälper Er med allt som hör begravningen till.
 
 En begravning kan i princip kosta hur mycket som helst. Vi skräddarsyr er begravning, börjar från botten och erbjuder Er en av de mest prisvärda begravningarna i Stockholm.
 
