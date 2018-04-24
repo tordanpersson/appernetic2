@@ -7,8 +7,7 @@ aliases: ['/begravningsentrepenoer-stockholm-sp-115732469/']
 ---
 
 
-
-ABC lilla begravningsbyrån, begravningsentreprenör Stockholm bildades när Eaststoone's lilla begravningsbyrå och Abc begravningsbyrå gick ihop hösten 2009.
+ABC lilla begravningsbyrån, **begravningsentreprenör Stockholm** bildades när Eaststoone's lilla begravningsbyrå och Abc begravningsbyrå gick ihop hösten 2009.
 
 Båda företagen hade en önskan om att kunna hjälpa människor i en svår tid, att inte utnyttja människor som är i en prekär situation.
 
