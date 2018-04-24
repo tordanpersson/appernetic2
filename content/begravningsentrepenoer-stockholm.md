@@ -13,7 +13,7 @@ Båda företagen hade en önskan om att kunna hjälpa människor i en svår tid,
 
 En av anledningen att vi kan hålla så moderata priser är framförallt att vi själva importerar våra kistor och urnor.
 
-Hos oss på abc lilla begravningsbyrån, begravningsentreprenör Stockholm kommer vi alltid att erbjuda Dig de mindre kostsamma alternativen först.
+Hos oss på abc lilla begravningsbyrån, *begravningsentreprenör Stockholm* kommer vi alltid att erbjuda Dig de mindre kostsamma alternativen först.
 
 Om Du sen känner och önskar att du vill spendera lite mer så får du även här valuta för dina pengar.
 
