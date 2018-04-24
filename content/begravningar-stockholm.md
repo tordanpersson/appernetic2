@@ -61,5 +61,5 @@ Vi skräddarsyr er begravning.
 Med hjälp av oss på ABC Lilla begravningsbyrån, kan du välja att göra mycket utav arbetet själv. Dels för att sänka begravningskostnaderna, men det kan även vara en viktig del av sorgarbetet att själv ta hand om en del av begravningen.
 
 
-  [1]: http://abclillabegravningsbyran.se/billig-begravningsbyra
-  [2]: http://abclillabegravningsbyran.se/index.php/priser
+  [1]: billig-begravningsbyra
+  [2]: priser
