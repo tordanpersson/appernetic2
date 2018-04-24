@@ -37,8 +37,8 @@ Vi på ABC Lilla begravningsbyrån, Stockholm, vill göra begravningen till ett 
 
 Vi erbjuder begravningar med hög kvalitet till låga priser.
 
-Du kan höra av dig till oss på telefonnummer 08-648 76 55 för mer information.
-Jourtelefon: 076-052 44 33
+*Du kan höra av dig till oss på telefonnummer 08-648 76 55 för mer information.
+Jourtelefon: 076-052 44 33*
 
 
 
@@ -49,9 +49,9 @@ Hos oss på ABC Lilla begravningsbyrån, väljer Du själv hur mycket eller lite
 
 
 
-Prisexempel på begravning utan ceremoni
+**[Prisexempel på begravning utan ceremoni][2]**
 
-Pris 5.900 kronor inkl. moms
+### Pris 5.900 kronor inkl. moms
 
 
 En begravning kan i princip kosta hur mycket pengar som helst. Men vi startar från början och kommer att erbjuda Er en av de mest prisvärda begravningarna i Stockholm.
@@ -62,3 +62,4 @@ Med hjälp av oss på ABC Lilla begravningsbyrån, kan du välja att göra mycke
 
 
   [1]: http://abclillabegravningsbyran.se/billig-begravningsbyra
+  [2]: http://abclillabegravningsbyran.se/index.php/priser
