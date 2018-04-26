@@ -2,7 +2,7 @@
 date: 2018-03-01
 draft: false
 title: En begravningsbyrå i stockholm för dig
-description: "ABC Lilla begravningsbyrån i Stockholm, vi erbjuder begravning för lägre priser i Stockholm. En begravningsbyrå i Stockholm för dig. Vi hjälper Er med allt som hör begravningen till. ABC Lilla begravningsbyrån, Stockholm är en prisvärd billig begravningsbyrå och kan erbjuda tjänster till låg kostnad."
+description: "Med hjälp av oss på ABC Lilla begravningsbyrån får ni hjälp att planera en begravning och ni kan välja att göra mycket utav arbetet själv. Dels för att sänka dina begravningskostnader men det kan även vara en viktig del av sorgarbetet att själv ta hand om en del av begravningen."
 ---
 
 
