@@ -5,7 +5,7 @@ draft: false
 tags: ['iot', 'recycling']
 categories: ['begravningen']
 layout: subsection
-description: "Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billiga urnor och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar begravningsceremoni. Urnbegravning blir vanligare nu när nya begravningslagen trädde i kraft för några år sen som sa att man då ska gravsättas eller kremeras senast en månad efter dödsfallet. Kremering innebär att den avlidne förbränns och blir till aska. Efter att kremeringen har genomförts behöver askan förvaras i någon form av behållare. Krematoriet placerar den avlidnes aska i en mycket enkel form av urna, en pappkartong. Kartongen från krematoriet är fullt tillräcklig vid gravsättning i minneslund, då behövs ingen urna, för vid gravsättning i minneslund strör man ut askan eller gräver ner den. Man får ej vara med då askan sprids, utan får bara ett meddelande när gravsättningen är gjord."
+description: "Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billiga urnor och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar begravningsceremoni. Urnbegravning blir vanligare nu när nya begravningslagen trädde i kraft för några år sen som sa att man då ska gravsättas eller kremeras senast en månad efter dödsfallet."
 ---
 
 
