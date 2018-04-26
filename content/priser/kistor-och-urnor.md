@@ -6,8 +6,7 @@ draft: false
 tags: ['iot', 'recycling']
 categories: ['begravningen']
 layout: subsection
-description:  "När du beställer en kremationsbegravning det vill säga en begravning med efterföljande kremering eller en så kallad direktare en direktkremation utan ceremoni eller om ni väljer en akt med urna, så behöver ni ändå en kista. Detta för att kistan hjälper till vid kremeringen.
-Lågpriskistorna, den billigaste kistan vi har är en enkel obehandlad furukista. Man kan lägga på ett så kallat bårtäcke över en billig kista under ceremonin. Kyrkan och kapellen lånar i regel ut sådana täcken gratis, men då får man i regel ej lägga blommor på dessa på den billiga kistan. Vi på ABC har egna bårtäcken i olika färger som man kan hyra för 200 kr för att lägga på kistan under ceremonin. Vi kan även betsa och måla en billig furukista. Det går också bra att beställa fina lackade kistor av oss, från 3.990 kr"
+description:  ""
 aliases: ['/priser/kistor-och-urnor/']
 
 ---
