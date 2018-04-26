@@ -1,22 +1,6 @@
 ---
 title: Begravningar Stockholm
-description: "Begravningar Stockholm, ABC Lilla begravningsbyrån AB i Stockholm Vackert Värdigt Prisvärt
-
-Har du förlorat en nära anhörig?
-
-Att förlora en anhörig eller nära vän kan vara det mest omvälvande vi råkar ut för. För de flesta av oss innebär det en stor chock, trots att det kanske till och med var väntat.
-
-Med sorgen kommer frågor och funderingar kring döden och vad som ska hända där efter. Det är en förlust vi alla reagerar olika på. Det här är långt ifrån en normal situation och du kommer att ställas inför många nya situationer.
-
-Försök att ta det så lugnt du kan, ta en sak i taget och känn efter.
-
-Vi på ABC Lilla begravningsbyrån, Stockholm, vill göra begravningen till ett fint minne av er anhörig eller vän, till en rimlig kostnad.
-
-Vi erbjuder begravningar med hög kvalitet till låga priser.
-
-Du kan höra av dig till oss på telefonnummer 08-648 76 55 för mer information.
-Jourtelefon: 076-052 44 33
-"
+description: ""
 date: 2018-03-01
 updated: 2018-04-01
 
