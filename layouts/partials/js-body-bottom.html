@@ -11,4 +11,10 @@
 -->
 {{- partial "js-menu.html" . }}
 
+{{ if .IsHome }}
+<link rel="preload" href="{{ $.Site.Params.cssPath | default "css/smorg.css" | absURL }}" as="style">
+<link rel="stylesheet" href="{{ $.Site.Params.cssPath | default "css/smorg.css" | absURL }}">
+{{ end }}
+
+
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i">
