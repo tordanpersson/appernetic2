@@ -1,5 +1,5 @@
 ---
-title: Billig begravningsbyrå
+title: billig begravning
 description: ""
 date: 2018-03-01
 updated: 2018-04-01
