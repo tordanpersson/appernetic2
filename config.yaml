@@ -217,7 +217,7 @@ menu:
           identifier: "priser"
           weight: 30
 
-        - name: "kistor Stockholm"
+        - name: "Kistor"
           url: "priser/kistor/"
           parent: "priser"
           weight: 301
