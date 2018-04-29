@@ -1,6 +1,6 @@
 ---
 title: kistor Stockholm
-slug: kistor Stockholm
+slug: Kistor
 date: 2018-03-03T09:17:17-08:00
 draft: false
 tags: ['iot', 'recycling']
