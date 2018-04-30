@@ -8,6 +8,7 @@ layout: subsection
 description: ""
 ---
 
+# Bouppteckningar
 
 {{< img-post
     path="img" file="begravningstockholm.jpg"

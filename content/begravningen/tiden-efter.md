@@ -9,6 +9,8 @@ layout: subsection
 ---
 
 
+# Vad händer efter begravningen?
+
 {{< img-post
     path="images/bilder/" file="blomma_rosa.jpg"
     alt="Tiden efter" type="right" >}}

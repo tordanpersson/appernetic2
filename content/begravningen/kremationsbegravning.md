@@ -9,6 +9,8 @@ layout: subsection
 ---
 
 
+#  Kremationsbegravning
+
 {{< img-post
     path="images/bilder/" file="blomma_rosa.jpg"
     alt="Kremationsbegravning" type="right" >}}

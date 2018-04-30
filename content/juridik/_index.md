@@ -9,6 +9,7 @@ layout: subsection
 description: ""
 ---
 
+# Juridik
 
 {{< img-post
     path="img" file="begravningsbyrastockholm.jpg"

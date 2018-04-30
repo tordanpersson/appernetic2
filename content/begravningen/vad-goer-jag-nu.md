@@ -11,6 +11,8 @@ aliases: ['/begravningen/vad-goer-jag-nu/']
 ---
 
 
+# Vad gör jag nu?
+ 
 {{< img-post
     path="img" file="begravningsbyrastockholm.jpg"
     alt="Vad gör jag nu?" type="right" >}}

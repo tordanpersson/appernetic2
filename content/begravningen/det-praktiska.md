@@ -10,12 +10,14 @@ aliases: ['/begravningen/vad-goer-jag-nu/det-praktiska/']
 ---
 
 
+# Det praktiska
+
 {{< img-post
     path="images/bilder/" file="blomma_rosa.jpg"
     alt="Det praktiska" type="right" >}}
 
 
-### Att tänka på vid ett dödsfall
+## Att tänka på vid ett dödsfall
 
  * Kontakta hyresvärd eller bostadsrättsförening och meddela dödsfallet. För hyresrätt är uppsägningstiden en månad.
  * Kontakta eventuell arbetsgivare och försäkringskassa.
@@ -24,7 +26,7 @@ aliases: ['/begravningen/vad-goer-jag-nu/det-praktiska/']
  * Säg upp alla abonnemang såsom, telefon, TV, kabel- abonnemang, dator, elektricitet samt autogiron.
  * Säg upp prenumerationer av tidningar, facebook och andra sociala medier.
  * Kontrollera vilka kort som finns tex kreditkort, ICA-kort Medmera-kort
- 
+
 Tänk också på:
 
  * att tömma kylskåp och slänga sopor

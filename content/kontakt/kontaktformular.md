@@ -8,7 +8,7 @@ draft: false
 layout: subsection
 ---
 
-
+# Kontaktformulär
 
 <form action="https://formspree.io/abcbegravning@gmail.com"
       method="POST">

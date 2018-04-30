@@ -7,6 +7,7 @@ layout: subsection
 
 ---
 
+# Brommakontoret vid Brommaplan, Stopvägen 78
 
 {{< img-post
     path="img" file="begravningstockholm.jpg"

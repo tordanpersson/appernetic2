@@ -10,6 +10,7 @@ aliases: ['/begravningen/vad-goer-jag-nu/doedsfallet/']
 
 ---
 
+# Dödsfallet
 
 {{< img-post
     path="images/bilder/" file="blomma_rosa.jpg"

@@ -8,6 +8,7 @@ layout: subsection
 description: "Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billiga urnor och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar begravningsceremoni. Urnbegravning blir vanligare nu när nya begravningslagen trädde i kraft för några år sen som sa att man då ska gravsättas eller kremeras senast en månad efter dödsfallet."
 ---
 
+# Urnor 
 
 Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *billiga urnor* och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar **[begravningsceremoni][1]**.
 
@@ -128,7 +129,7 @@ description: "Vi har urnor i Stockholm med olika former, material och prisnivåe
 </tbody>
 </table>
 
-## Bra att veta om urnor och urnbegravningar 
+## Bra att veta om urnor och urnbegravningar
 
 **Urnbegravning** blir vanligare nu när nya begravningslagen trädde i kraft för några år sen som sa att man då ska gravsättas eller kremeras senast en månad efter dödsfallet.
 

@@ -10,12 +10,13 @@ description: ""
 
 ---
 
+# Begravningen
 
 {{< img-post
     path="img" file="begravningsbyrastockholm.jpg"
     alt="Begravningen" type="right" >}}
 
-Ny begravningslag från och med 1 maj 2012
+## Ny begravningslag från och med 1 maj 2012
 
 Den 15 mars 2012 fattade riksdagen beslut om ny begravningslag. Lagändringen trädde i kraft den 1 maj 2012. Enligt den nya lagen får tiden mellan dödsfall och gravsättning, alternativt kremering, vara högst en månad, mot tidigare två månader. Som anhörig betyder det att man bör ganska snart efter dödsfallet kontakta begravningsbyrå för att ordna begravning.
 

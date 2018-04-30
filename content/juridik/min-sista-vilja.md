@@ -8,6 +8,7 @@ layout: subsection
 description: ""
 ---
 
+# Min sista vilja
 
 {{< img-post
     path="img" file="begravningstockholm.jpg"

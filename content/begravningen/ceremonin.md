@@ -8,6 +8,7 @@ tags: ['theme','bulma']
 layout: subsection
 ---
 
+# Ceremonin
 
 {{< img-post
     path="images/bilder/" file="blomma_rosa.jpg"

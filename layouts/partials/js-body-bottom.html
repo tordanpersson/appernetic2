@@ -12,7 +12,6 @@
 {{- partial "js-menu.html" . }}
 
 {{ if .IsHome }}
-<link rel="preload" href="{{ $.Site.Params.cssPath | default "css/smorg.css" | absURL }}" as="style">
 <link rel="stylesheet" href="{{ $.Site.Params.cssPath | default "css/smorg.css" | absURL }}">
 {{ end }}
 

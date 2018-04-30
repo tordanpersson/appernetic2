@@ -7,6 +7,7 @@ layout: subsection
 
 ---
 
+# Om oss
 
 {{< img-post
     path="img" file="begravningsbyrastockholm.jpg"

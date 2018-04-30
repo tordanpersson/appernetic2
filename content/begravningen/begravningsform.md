@@ -8,6 +8,7 @@ tags: ['theme','bulma']
 layout: subsection
 ---
 
+# Begravningsform
 
 {{< img-post
     path="images/bilder/" file="blomma_rosa.jpg"

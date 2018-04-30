@@ -5,6 +5,7 @@ draft: false
 
 ---
 
+# Samarbetspartners
 
 {{< img-post
     path="images/bilder/" file="blomma_rosa.jpg"

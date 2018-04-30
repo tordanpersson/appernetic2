@@ -6,6 +6,7 @@ description: ""
 
 ---
 
+# Gravstenar
 
 Om du nu får en ny grav och önskar en gravsten finns det lite tips för att hålla kostnaderna nere. Du kan ringa runt till gravastensfirmorna och fråga om de har en begagnad sten, dvs en återtagen sten som de kan slipa om.
 Ett annat alternativ är om du plockar upp en natursten och får den graverad för att sen lägga på graven.

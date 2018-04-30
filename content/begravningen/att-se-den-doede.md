@@ -1,12 +1,12 @@
 ---
 date: 2018-03-11T00:00:00-08:00
 description: ""
-
 draft: false
 title: "Att se den avlidne, visning"
 layout: subsection
 ---
 
+# Att se den avlidne, visning
 
 {{< img-post
     path="images/bilder/" file="blomma_rosa.jpg"
