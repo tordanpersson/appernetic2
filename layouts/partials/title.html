@@ -1,0 +1,4 @@
+
+{{if .IsHome}}{{ $.Site.Params.home }}{{else}}{{.Description}}{{end}}
+{{ if .IsHome }} {{ $.Site.Params.Title }} {{ else }}{{ .Title }} {{ end }}
+{{ if ne .Title .Site.Title }} &middot; {{ .Site.Title }}{{ end }}

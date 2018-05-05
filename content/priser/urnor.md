@@ -5,10 +5,10 @@ draft: false
 tags: ['iot', 'recycling']
 categories: ['begravningen']
 layout: subsection
-description: "Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billiga urnor och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar begravningsceremoni. Urnbegravning blir vanligare nu när nya begravningslagen trädde i kraft för några år sen som sa att man då ska gravsättas eller kremeras senast en månad efter dödsfallet."
+description: "Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billiga urnor och dyrare urnor i exklusivare utföranden. Urnor köper du i samband med att du bokar begravningsceremoni. Urnbegravning blir vanligare nu när nya begravningslagen trädde i kraft för några år sen som sa att man då ska gravsättas eller kremeras senast en månad efter dödsfallet."
 ---
 
-# Urnor 
+# Urnor
 
 Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *billiga urnor* och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar **[begravningsceremoni][1]**.
 
