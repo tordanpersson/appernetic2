@@ -10,9 +10,11 @@ description: "Priset på en begravning varierar beroende på dina önskemål. H�
 på ABC Lilla begravningsbyrån Stockholm tagit fram några prisexempel. Önskar ni en mer exklusiv begravning med exempelvis en dyrare kista eller om det är något annat ni vill att vi står till tjänst med så ordnar vi det. Vi finns här för er."
 ---
 
-# Priser
 
-{{< img-post
+# Priser
+
+
+{{< img-post
     path="img" file="begravningsbyrastockholm.jpg"
     alt="Priser" type="right" >}}
 
@@ -137,8 +139,8 @@ Vi finns här för er.
 <td style="width: 77px;"> </td>
 </tr>
 <tr>
-<td style="width: 305px;" align="left" valign="top">Bärarlag, sex pers 690:- per person</td>
-<td style="width: 76px;" align="right" valign="top">4 140:-</td>
+<td style="width: 305px;" align="left" valign="top">Bärarlag, sex pers 890:- per person</td>
+<td style="width: 76px;" align="right" valign="top">5 340:-</td>
 <td style="width: 77px;"> </td>
 </tr>
 <tr>
