@@ -265,7 +265,7 @@ menu:
 # Change default rss filename to rss.xml, layout is built in to Hugo
 mediaTypes:
   application/atom:
-    suffix: xml
+    suffixes: xml
 
 outputFormats:
   Atom:
