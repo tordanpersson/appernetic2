@@ -1,8 +1,8 @@
 ---
 date: 2018-03-01
 draft: false
-title: "Begravningsbyrå i Stockholm"
-description: "Med hjälp av oss på ABC Lilla begravningsbyrån får ni hjälp att planera en begravning och ni kan välja att göra mycket utav arbetet själv. Dels för att sänka dina begravningskostnader men det kan även vara en viktig del av sorgarbetet att själv ta hand om en del av begravningen."
+title: "Begravning i Stockholm"
+description: "Begravning i Stockholm? Vi på ABC Lilla begravningsbyrån hjälper er att planera begravningen. Vi hjälper er med allt som hör begravningen till. Se mer här!"
 
 
 ---
