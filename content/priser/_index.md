@@ -34,7 +34,7 @@ Vi finns här för er.
 <td style="width: 77px;"> </td>
 </tr>
 <tr>
-<td>Kista i furu</td>
+<td>Miljökista i papp</td>
 <td style="width: 76px;" align="right">1 990:-</td>
 <td style="width: 77px;" align="right"> </td>
 </tr>
