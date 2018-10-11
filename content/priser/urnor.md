@@ -82,7 +82,7 @@ Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *bi
 </tr>
 <tr>
 <td style="width: 200px;" colspan="3">
-<p><strong>Bio 3</strong>, finns i vit och svart. <strong>Pris 790:-</strong></p>
+<p><strong>Miljöurna</strong>, finns i olika färger. <strong>Pris 790:-</strong></p>
 <p> </p>
 </td>
 </tr>
