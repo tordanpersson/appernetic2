@@ -35,7 +35,7 @@ Vi vill göra begravningen till ett fint minne av anhörig eller nära vän till
 
 [Priser begravningstjänster][2]
 
-## Har du förlorat en nära anhörig?
+## Har du förlorat en nära anhörig eller vän?
 Att förlora en anhörig eller vän kan vara det mest omvälvande vi råkar ut för. För de flesta av oss innebär det en stor chock, trots att det kanske till och med var väntat. Med sorgen kommer frågor och funderingar kring döden och vad som ska hända där efter. Det är en förlust vi alla reagerar olika på. Det här är långt ifrån en normal situation och du kommer att ställas inför många nya frågeställningar.
 
 ## Hjälp att planera en begravning före och efter
