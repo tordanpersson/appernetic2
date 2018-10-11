@@ -11,8 +11,10 @@ aliases: ['/priser/kistor-och-urnor/']
 
 ---
 
-# Kistor och urnor
-När du beställer en **kremationsbegravning** det vill säga en begravning med efterföljande kremering eller en så kallad direktare en direktkremation utan ceremoni eller om ni väljer en akt med urna, så behöver ni ändå en kista. Detta för att kistan hjälper till vid kremeringen.
+
+# Kistor och urnor
+
+När du beställer en **kremationsbegravning** det vill säga en begravning med efterföljande kremering eller en så kallad direktare en direktkremation utan ceremoni eller om ni väljer en akt med urna, så behöver ni ändå en kista. Detta för att kistan hjälper till vid kremeringen.
 
 
 ## Kistor
@@ -63,6 +65,7 @@ Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar
 </tbody>
 </table>
 
+<p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
 ## Begravningskistor
 
 Lågpriskistorna, den *billigaste kistan* vi har är en enkel obehandlad furukista. Man kan lägga på ett så kallat bårtäcke över en billig kista under ceremonin. Kyrkan och kapellen lånar i regel ut sådana täcken gratis, men då får man i regel ej lägga blommor på dessa på den billiga kistan. Vi på ABC har egna bårtäcken i olika färger som man kan hyra för 200 kr för att lägga på kistan under ceremonin. Vi kan även betsa och måla en billig furukista. Det går också bra att beställa fina lackade kistor av oss, från 3.990 kr
