@@ -8,7 +8,7 @@ weight: 101
 ---
 
 
-# Hitta hit
+# Hitta hit
 
 Karta:
 
@@ -26,7 +26,7 @@ e-post: abcbegravning@gmail.com
 
 Journummer: 0760-52 44 33 öppet vardagar 09.00-17.00
 
-Vi utför begravningar i hela Storstockholm - Södermalm, Gamla stan, Norrmalm, Östermalm, Vasastan, Kungsholmen, Västerort ; Bromma, Vällingby, Järfälla, Spånga, Sundbyberg, Solna, Huddinge, Botkyrka, Danderyd, Ekerö, Haninge, Lidingö, Nacka,  Nynäshamn, Salem, Sollentuna, Solna, Sundbyberg, Södertälje, Tyresö, Täby, Upplands Väsby, Vallentuna, Värmdö, Österåker. Vid längre distanser tillkommer milersättning.
+Vi utför begravningar i hela Storstockholm - Stockholm City, Norrmalm, Södermalm, Kungsholmen, Östermalm, Gamla Stan, Djurgården, Västerort, Bromma, Vällingby, Spånga, Kista, Hässelby, Söderort,Bagarmossen, Bandhagen, Enskede, Enskededalen, Enskede gård, Farsta, Hägersten, Johanneshov, Skarpnäck, Skärholmen, Sköndal, Stockholm-Globen, Årsta, Hammarby Sjöstad, Liljeholmen, Gröndal, Älvsjö, Norrort, Danderyd, Sollentuna, Lidingö, Järfälla, Vallentuna, Huddinge, Botkyrka. Vid längre distanser tillkommer milersättning.
 
 Du kan även anlita oss för begravningar i resten av landet. Då tillkommer milersättning 95 kr/mil.
 
