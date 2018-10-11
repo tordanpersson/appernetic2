@@ -8,7 +8,7 @@ description: "Med hjälp av oss på ABC Lilla begravningsbyrån får ni hjälp a
 ---
 
 
-# En begravningsbyrå i Stockholm för Dig
+# En begravningsbyrå i Stockholm som hjälper dig med begravningen
 
 ## Vänd Er med förtroende till oss på ABC Lilla begravningsbyrån.
 
