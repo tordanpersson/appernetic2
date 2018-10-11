@@ -7,7 +7,8 @@ draft: false
 ---
 
 
-# ABC Lilla begravningsbyrån AB Vacker Värdigt Prisvärt en billig begravningsbyrå
+# En billig begravning som är Vacker Värdig Prisvärd
+
 ## Vänd Er med förtroende till oss, på ABC Lilla begravningsbyrån, Stockholm.
 
 ### Vi hjälper Er med allt som hör begravningen till.
