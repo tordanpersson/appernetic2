@@ -20,11 +20,13 @@ ABC Lilla begravningsbyrån
 
 Skönviksvägen 244, 122 42 Enskede  
 
+Öppet vardagar 09.00-15.00, eller efter överenskommelse.
+
 Tel: 08 – 648 76 55  
 
-e-post: abcbegravning@gmail.com
+E-post: abcbegravning@gmail.com
 
-Journummer: 0760-52 44 33 öppet vardagar 09.00-17.00
+Journummer: 0760-52 44 33 
 
 Vi utför begravningar i hela Storstockholm - Stockholm City, Norrmalm, Södermalm, Kungsholmen, Östermalm, Gamla Stan, Djurgården, Västerort, Bromma, Vällingby, Spånga, Kista, Hässelby, Söderort,Bagarmossen, Bandhagen, Enskede, Enskededalen, Enskede gård, Farsta, Hägersten, Johanneshov, Skarpnäck, Skärholmen, Sköndal, Stockholm-Globen, Årsta, Hammarby Sjöstad, Liljeholmen, Gröndal, Älvsjö, Norrort, Danderyd, Sollentuna, Lidingö, Järfälla, Vallentuna, Huddinge, Botkyrka. 
 
