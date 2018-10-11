@@ -21,6 +21,7 @@ description: "Med hjälp av oss på ABC Lilla begravningsbyrån får ni hjälp a
 
 ABC Lilla begravningsbyrån, Stockholm är en prisvärd [billig begravningsbyrå][1] och kan erbjuda tjänster till låg kostnad.
 
+<p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
 
 
 Vi vill göra begravningen till ett fint minne av anhörig eller nära vän till en rimlig kostnad.
@@ -46,9 +47,6 @@ En begravning kan i princip kosta hur mycket pengar som helst. Men vi skräddars
 <table style="width: 100%; background: white" border="0" cellspacing="5" cellpadding="5" align="center">
 <tbody>
 <tr>
-<td>
-<p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
-</td>
 <td>{{< img-post
     path="img" file="begravningstockholm.jpg"
     alt="begravning stockholm" type="right" >}}</td>
