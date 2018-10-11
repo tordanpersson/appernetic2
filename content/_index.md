@@ -49,7 +49,7 @@ En begravning kan i princip kosta hur mycket pengar som helst. Men vi skräddars
 <tr>
 <td>{{< img-post
     path="img" file="begravningstockholm.jpg"
-    alt="begravning stockholm" type="right" >}}</td>
+    alt="begravning stockholm" type="left" >}}</td>
 </tr>
 </tbody>
 </table>
