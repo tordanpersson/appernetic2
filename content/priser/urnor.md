@@ -8,20 +8,21 @@ layout: subsection
 description: "Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billiga urnor och dyrare urnor i exklusivare utföranden. Urnor köper du i samband med att du bokar begravningsceremoni. Urnbegravning blir vanligare nu när nya begravningslagen trädde i kraft för några år sen som sa att man då ska gravsättas eller kremeras senast en månad efter dödsfallet."
 ---
 
-# Urnor
 
-Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *billiga urnor* och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar **[begravningsceremoni][1]**.
+# Urnor
+
+
+Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *billiga urnor* och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar **[begravningsceremoni][1]**.
 
 <table class="table">
 <tbody>
 <tr>
 <td style="width: 200px;"><img style="vertical-align: middle;" src="images/bilder/billigaurnor.png" alt="billiga urnor" width="100" height="160" border="0" /></td>
-<td style="width: 200px;"><img style="vertical-align: middle;" src="images/bilder/urnorstockholm.png" alt="urnor stockholm" width="100" height="141" border="0" /></td>
 <td style="width: 200px;"><img style="vertical-align: middle;" src="images/bilder/dsc01869_fri.png" alt="" width="100" height="149" border="0" /></td>
 </tr>
 <tr>
 <td style="width: 200px;" colspan="3">
-<p><strong>Tygdraperad urna</strong>, finns i blå, grå, vinröd och vit. <strong>Pris 990:- </strong></p>
+<p><strong>Tygdraperad urna</strong>, finns i blå och vit. <strong>Pris 990:- </strong></p>
 </td>
 </tr>
 <tr>
@@ -34,12 +35,11 @@ description: "Vi har urnor i Stockholm med olika former, material och prisnivåe
 </tr>
 <tr>
 <td style="width: 200px;"><img style="float: left;" src="images/bilder/urna_vit_webb.jpg" alt="" width="106" height="155" border="0" /></td>
-<td style="width: 200px;"><img style="float: left; border: 0px none;" src="images/bilder/urna_tra_webb.jpg" alt="" width="105" height="150" border="0" /></td>
 <td style="width: 200px;"> </td>
 </tr>
 <tr>
 <td style="width: 200px;" colspan="3">
-<p><strong>Träurna med kors</strong>, träfärgad eller vitmålad. <strong>Pris 750:-</strong></p>
+<p><strong>Träurna med kors</strong>  vitmålad. <strong>Pris 750:-</strong></p>
 <p><strong> <br /></strong></p>
 </td>
 </tr>
