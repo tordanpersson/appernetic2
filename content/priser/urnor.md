@@ -60,7 +60,7 @@ Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *bi
 </tr>
 <tr>
 <td colspan="3">
-<p><strong>Träurna</strong> <strong>modell 206</strong> finns i tre brunbetsade nyanser. <strong>Pris 890:-</strong></p>
+<p><strong>Träurna</strong> <strong>modell 206</strong>. <strong>Pris 890:-</strong></p>
 <p> </p>
 </td>
 </tr>
