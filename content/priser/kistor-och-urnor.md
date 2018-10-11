@@ -3,10 +3,8 @@ title: Billiga Kistor för en värdig begravning
 slug: Kistor
 date: 2018-03-03T09:17:17-08:00
 draft: false
-tags: ['iot', 'recycling']
-categories: ['begravningen']
 layout: subsection
-description:  ""
+description:  "ABC Lilla begravningsbyrån hjälper dig att hitta en prisvärd & billig kista. Vi har kistor i många olika utföranden för ett vackert & värdigt avsked."
 aliases: ['/priser/kistor-och-urnor/']
 
 ---
