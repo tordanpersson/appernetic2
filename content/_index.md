@@ -44,15 +44,21 @@ Med hjälp av oss på ABC Lilla begravningsbyrån får ni hjälp att planera en 
 
 En begravning kan i princip kosta hur mycket pengar som helst. Men vi skräddarsyr er begravning, börjar från botten och erbjuder er en av de mest prisvärda begravningarna i Stockholm.
 
-<table style="width: 100%; background: white" border="0" cellspacing="5" cellpadding="5" align="center">
-<tbody>
-<tr>
-<td>{{< img-post
-    path="img" file="begravningstockholm.jpg"
-    alt="begravning stockholm" type="left" >}}</td>
-</tr>
-</tbody>
-</table>
+Den enklaste begravningen man kan genomföra är en så kallad Direktkremation utan ceremoni. Detta innebär att vi på ABC lilla begravningsbyrån hämtar den avlidna på bårhuset och transporterar denne till krematoriet för en kremation. Kostnad 5.900:- under förutsättning att hen ifråga inte var väldigt stor/kraftig/tung för då krävs en extra stor kista (4.890:-) totalt 8.800:-  
+
+Beroende på vad ni vill göra med askan är det enklaste att gravsätta den i en minneslund. Detta är ett anonymt och kostnadsfritt alternativ. 
+Som anhörig får ni ej närvara och inte heller få reda på var i minneslunden den avlidna är gravsatt.
+Ni kan även sprida askan i havet.
+I detta fall måste man ansöka om tillstånd från Länsstyrelsen. Ring gärna för eventuella frågor kring detta. 
+
+Ett annat alternativ är en Askgravlund eller en Askgravplats, ett mellanting mellan minneslund och en vanlig grav. 
+Kostnad för det brukar ligga på ca: 3.000-9.000:- (inklusive inskription ) beroende på vilken Kyrkogårdsförvaltning det är.
+Vad det gäller detta alternativ så får anhöriga vara med på gravsättningen.
+
+Om det finns en befintlig grav eller om Ni vill ha en ny grav och Ni önskar vara med vid gravsättningen kanske Ni vill ha en urna. 
+Detta är dock inte nödvändigt.
+Askan levereras i en urnkartong från krematoriet. 
+Om Ni vill ha en urna säljer vi urnor från 490:- i många olika modeller och färger.
 
 
   [1]: billig-begravningsbyra
