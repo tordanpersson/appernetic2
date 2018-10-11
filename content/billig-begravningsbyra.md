@@ -1,5 +1,5 @@
 ---
-title: Billig begravning med ABC Lilla Begravningsbyrån
+title: Billig begravning med
 description: "ABC Lilla begravningsbyrån erbjuder billig begravning. Vi är en prisvärd begravningsbyrå och kan erbjuda tjänster till en låg kostnad. Se mer här!"
 date: 2018-03-01
 updated: 2018-04-01
