@@ -1,11 +1,12 @@
 ---
-title: Urnor
+title: "Billiga urnor från ABC Lilla Begravningsbyrån"
+slug: Urnor
 date: 2018-03-03T09:17:17-08:00
 draft: false
 tags: ['iot', 'recycling']
 categories: ['begravningen']
 layout: subsection
-description: "Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billiga urnor och dyrare urnor i exklusivare utföranden. Urnor köper du i samband med att du bokar begravningsceremoni. Urnbegravning blir vanligare nu när nya begravningslagen trädde i kraft för några år sen som sa att man då ska gravsättas eller kremeras senast en månad efter dödsfallet."
+description: "Vi har urnor i Stockholm i många olika stilar. Från enkla & billiga urnor till exklusiva urnor i fina material. Se våra urnor här!"
 ---
 
 
