@@ -20,9 +20,9 @@ ABC Lilla begravningsbyrån
 
 Skönviksvägen 244, 122 42 Enskede  
 
-Öppet vardagar 09.00-15.00, eller efter överenskommelse.
+Öppet vardagar 09.00 - 15.00, eller efter överenskommelse.
 
-Tel: 08 – 648 76 55  
+Tel: 08 – 648 76 55  (09.00 -17.00)
 
 E-post: abcbegravning@gmail.com
 
