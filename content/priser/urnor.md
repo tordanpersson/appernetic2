@@ -44,13 +44,12 @@ Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *bi
 </td>
 </tr>
 <tr>
-<td><img style="float: left;" src="images/bilder/dsc01870_fri.png" alt="" width="114" height="160" border="0" /></td>
 <td><img style="float: left;" src="images/bilder/dsc02010_fri.png" alt="" width="121" height="170" border="0" /></td>
 <td> </td>
 </tr>
 <tr>
 <td colspan="3">
-<p><strong>Model 210</strong> finns betsad i vitt, grått, blått, svart och vinröd . <strong>Pris 1 190:-</strong></p>
+<p><strong>Model 210</strong> finns laserad i  grått, blå-svart. <strong>Pris 1 190:-</strong></p>
 <p><strong> </strong></p>
 </td>
 </tr>
