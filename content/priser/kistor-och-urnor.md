@@ -1,5 +1,5 @@
 ---
-title: Kistor
+title: Billiga Kistor för en värdig begravning
 slug: Kistor
 date: 2018-03-03T09:17:17-08:00
 draft: false
@@ -12,7 +12,7 @@ aliases: ['/priser/kistor-och-urnor/']
 ---
 
 
-# Kistor och urnor
+# Prisvärda och billiga kistor
 
 När du beställer en **kremationsbegravning** det vill säga en begravning med efterföljande kremering eller en så kallad direktare en direktkremation utan ceremoni eller om ni väljer en akt med urna, så behöver ni ändå en kista. Detta för att kistan hjälper till vid kremeringen.
 
