@@ -65,17 +65,6 @@ Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *bi
 </td>
 </tr>
 <tr>
-<td><img style="float: left;" src="images/bilder/dsc01861_fri.png" alt="" width="114" height="160" border="0" /></td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td colspan="3">
-<p><strong>Träurna modell 204</strong>, finns betsad i ljus och mörk brun. <strong>Pris 890:-</strong></p>
-<p> </p>
-</td>
-</tr>
-<tr>
 <td style="width: 200px;"><img style="border: 0px none;" src="images/bilder/ask1_010jgro_746.png" alt="" width="100" height="160" border="0" /></td>
 <td style="width: 200px;"><img style="vertical-align: middle;" src="images/bilder/ask1_010jvit_0751.png" alt="" width="100" height="160" border="0" /></td>
 <td style="width: 200px;"> </td>
