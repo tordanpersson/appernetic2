@@ -1,6 +1,7 @@
 ---
 date: 2018-03-01
-title: Begravning i Stockholm
+title: ABC Lilla Begravningsbyrån - Begravning i Stockholm - Värdig begravning till
+  rimlig kostnad
 description: Begravning i Stockholm? Vi på ABC Lilla begravningsbyrån hjälper er att
   planera begravningen. Vi hjälper er med allt som hör begravningen till. Se mer här!
 draft: true
