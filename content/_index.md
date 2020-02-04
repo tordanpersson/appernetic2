@@ -17,7 +17,7 @@ Vi hjälper Er med allt som hör en begravning till.
 
 Alltid fri telefonrådgivning.
 
-ABC Lilla begravningsbyrån, Stockholm är en prisvärd [billig begravningsbyrå](billig-begravningsbyra) och kan erbjuda tjänster till låg kostnad.
+ABC Lilla begravningsbyrån, Stockholm är en prisvärd [begravningsbyrå](billig-begravningsbyra) och kan erbjuda tjänster till låg kostnad.
 
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
 
