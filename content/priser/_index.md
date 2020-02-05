@@ -29,14 +29,12 @@ Vi finns här för er.
 
 KREMATION UTAN CEREMONI
 
-|                   | Papp    | Furu  |
-|                   | --------------- |
-| Miljökista i papp | 1 990:- | 2990:-|
 
-| Option | Papp | Furu |
+
+|  | Papp | Furu |
 | ------ | ---- | ---- |
-| data   | path | 2990:- |
-| engine | engine | 3330:- |
+| Miljökista i papp   | 1 990:- | 2990:- |
+| Bisättning, svepning och transport till krematorium | 3 600:- | 3 600:- |
 | ext    | extension | files |
 
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
