@@ -29,13 +29,13 @@ Vi finns här för er.
 
 KREMATION UTAN CEREMONI
 
-||Papp | Furu |
-||-------------|
-|Miljökista i papp | 1 990:- |2990:-|
+| | Papp | Furu |
+| | ------------- |
+| Miljökista i papp | 1 990:- | 2990:-|
 
-| Option | Description |
+| | Papp | Furu |
 | ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
+| Miljökista i papp   | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
