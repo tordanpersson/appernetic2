@@ -35,6 +35,8 @@ KREMATION UTAN CEREMONI
 | ------ | ---- | ---- |
 | Miljökista i papp   | 1 990:- | 2990:- |
 | Bisättning, svepning och transport till krematorium | 3 600:- | 3 600:- |
-| ext    | extension | files |
+| Byråarvode    | 310:- | 310:- |
+| Pris inkl moms    | 5 900:- | 6 900:- |
 
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
+
