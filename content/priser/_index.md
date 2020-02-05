@@ -37,6 +37,7 @@ Vi finns här för er.
 | **Pris inkl moms**    | **5 900:-** | **6 900:-** |
 
 **KREMATIONSBEGRAVNING I KYRKA ELLER KAPELL**
+
 |  | Papp | Furu |
 | ------ | ---- | ---- |
 | Kista i furu   | 	2 990:- |  |
