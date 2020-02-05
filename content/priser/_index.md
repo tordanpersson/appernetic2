@@ -47,4 +47,15 @@ Vi finns här för er.
 | Representant   | 1 400:- | 1 400:- |
 | **Pris inkl moms**    | **10 990:-** | **11 990:-** |
 
+**JORDBEGRAVNING I KYRKA ELLER KAPELL**
+
+|  | Papp | Furu |
+| ------ | ---- | ---- |
+| Kista i furu   | 	2 990:- |  |
+| Kista betsad eller målad furu |  | 3 990:- |
+| Bisättning, svepning och transport till kyrka eller kapell    | 3 800:- | 3 800:- |
+| Byråarvode    | 3 900:- | 3 900:- |
+| Representant   | 1 400:- | 1 400:- |
+| **Pris inkl moms**    | **12 990:-** | **13 990:-** |
+
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
