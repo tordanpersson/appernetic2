@@ -30,7 +30,7 @@ Vi finns här för er.
 <table class="table">
 <tbody>
 <tr>
-<td"><strong>KREMATION UTAN CEREMONI</strong></td>
+<td><strong>KREMATION UTAN CEREMONI</strong></td>
 <td style="width: 76px;"> </td>
 <td style="width: 77px;"> </td>
 </tr>
