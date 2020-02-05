@@ -27,16 +27,23 @@ på ABC Lilla begravningsbyrån tagit fram några prisexempel.
 
 Vi finns här för er.
 
-KREMATION UTAN CEREMONI
-
-
+**KREMATION UTAN CEREMONI**
 
 |  | Papp | Furu |
 | ------ | ---- | ---- |
 | Miljökista i papp   | 1 990:- | 2990:- |
 | Bisättning, svepning och transport till krematorium | 3 600:- | 3 600:- |
 | Byråarvode    | 310:- | 310:- |
-| Pris inkl moms    | 5 900:- | 6 900:- |
+| **Pris inkl moms**    | **5 900:-** | **6 900:-** |
+
+**KREMATIONSBEGRAVNING I KYRKA ELLER KAPELL**
+|  | Papp | Furu |
+| ------ | ---- | ---- |
+| Kista i furu   | 	2 990:- |  |
+| Kista betsad eller målad furu |  | 3 990:- |
+| Bisättning, svepning och transport till kyrka eller kapell    | 3 800:- | 3 800:- |
+| Byråarvode    | 2 800:- | 2 800:- |
+| Representant   | 1 400:- | 1 400:- |
+| **Pris inkl moms**    | **10 990:-** | **11 990:-** |
 
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
-
