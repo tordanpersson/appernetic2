@@ -29,16 +29,17 @@ Vi finns här för er.
 
 **KREMATION UTAN CEREMONI**
 
-|  | Papp | Furu |
+|  |  |  |
 | ------ | ---- | ---- |
-| Miljökista i papp   | 1 990:- | 2990:- |
+| Miljökista i Papp   | 1 990:- |  |
+| Miljökista i Furu   |  | 2990:- |
 | Bisättning, svepning och transport till krematorium | 3 600:- | 3 600:- |
 | Byråarvode    | 310:- | 310:- |
 | **Pris inkl moms**    | **5 900:-** | **6 900:-** |
 
 **KREMATIONSBEGRAVNING I KYRKA ELLER KAPELL**
 
-|  | Papp | Furu |
+|  |  |  |
 | ------ | ---- | ---- |
 | Kista i furu   | 	2 990:- |  |
 | Kista betsad eller målad furu |  | 3 990:- |
@@ -49,7 +50,7 @@ Vi finns här för er.
 
 **JORDBEGRAVNING I KYRKA ELLER KAPELL**
 
-|  | Papp | Furu |
+|  |  |  |
 | ------ | ---- | ---- |
 | Kista i furu   | 	2 990:- |  |
 | Kista betsad eller målad furu |  | 3 990:- |
