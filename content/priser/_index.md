@@ -90,4 +90,4 @@ Vi finns här för er.
 | därefter per timme | 890:- |  |
 | Granskning av bouppteckning | 1490:- |  |
 
-{{< myshortcode >}}<p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>{{< /myshortcode >}}
+<p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
