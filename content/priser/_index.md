@@ -61,7 +61,34 @@ Vi finns här för er.
 
 |  |  |  |
 | ------ | ---- | ---- |
-| Bärarlag, sex pers 890:- per person   | 	5 340:- |  |
-| Hyra av bårtäcke, flera färger   | 	290:- |  |
+| Bärarlag, sex pers 890:- per person   | 5 340:- |  |
+| Hyra av bårtäcke, flera färger   | 290:- |  |
+
+**Eventuellt tillkommande kostnader**
+
+|  |  |  |
+| ------ | ---- | ---- |
+| Visning av den avlidna  | 	1490:- |  |
+| Visning av den avlidna i samband med bisättning | 1490:- |  |
+| Urna tillkommer vid gravsättning, från | 490:- |  |
+| Tyg- och sammetspåsar för aska, från    | 390:- | |
+
+**Vi står också till tjänst med**
+
+|  |  |  |
+| ------ | ---- | ---- |
+| Programblad grundpris  | 	490:- |  |
+| Programblad per ex | 17:- |  |
+| Hjälp med begravningsannons i en tidning | 590:- |  |
+| Hjälp med begravningsannons inkl O.S.A.    | 1490:- | |
+| Hjälp med begravningsannons i mer än en tidning    | 890:- | |
+| Anhörig gör själv annons, O.S.A. till begravningsbyrån    | 1290:- | |
+| Klä den avlidne i egna kläder    | 1490:- | |
+| Extra representant (rek. vid större ceremonier)    | 1400:- | |
+| Visning av den avlidna    | 1490:- | |
+| Hjälp med bouppteckning, grundpris för tre timmar    | 1490:- | |
+| därefter per timme    | 890:- | |
+| Granskning av bouppteckning   | 1490:- | |
+
 
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
