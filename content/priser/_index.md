@@ -57,7 +57,7 @@ Vi finns här för er.
 | Bisättning, svepning och transport till kyrka eller kapell    | 3 800:- | 3 800:- |
 | Byråarvode    | 3 900:- | 3 900:- |
 | Representant   | 1 400:- | 1 400:- |
-| **Pris inkl moms**    | **12 090:-** | **13 0090:-** |
+| **Pris inkl moms**    | **12 090:-** | **13 090:-** |
 
 | ------ | ---- | ---- |
 | Bärarlag, sex pers 890:- per person   | 	5 340:- |  |
