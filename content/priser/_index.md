@@ -12,7 +12,6 @@ description: Priset på en begravning varierar beroende på dina önskemål. Hä
   på ABC Lilla begravningsbyrån Stockholm tagit fram några prisexempel. Önskar ni
   en mer exklusiv begravning med exempelvis en dyrare kista eller om det är något
   annat ni vill att vi står till tjänst med så ordnar vi det. Vi finns här för er.
-draft: true
 
 ---
 # Priser
@@ -58,6 +57,10 @@ Vi finns här för er.
 | Bisättning, svepning och transport till kyrka eller kapell    | 3 800:- | 3 800:- |
 | Byråarvode    | 3 900:- | 3 900:- |
 | Representant   | 1 400:- | 1 400:- |
-| **Pris inkl moms**    | **12 990:-** | **13 990:-** |
+| **Pris inkl moms**    | **12 090:-** | **13 0090:-** |
+
+| ------ | ---- | ---- |
+| Bärarlag, sex pers 890:- per person   | 	5 340:- |  |
+| Hyra av bårtäcke, flera färger   | 	290:- |  |
 
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
