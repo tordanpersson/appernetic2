@@ -59,6 +59,7 @@ Vi finns här för er.
 | Representant   | 1 400:- | 1 400:- |
 | **Pris inkl moms**    | **12 090:-** | **13 090:-** |
 
+|  |  |  |
 | ------ | ---- | ---- |
 | Bärarlag, sex pers 890:- per person   | 	5 340:- |  |
 | Hyra av bårtäcke, flera färger   | 	290:- |  |
