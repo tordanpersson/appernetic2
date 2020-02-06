@@ -12,7 +12,6 @@ description: Priset på en begravning varierar beroende på dina önskemål. Hä
   på ABC Lilla begravningsbyrån Stockholm tagit fram några prisexempel. Önskar ni
   en mer exklusiv begravning med exempelvis en dyrare kista eller om det är något
   annat ni vill att vi står till tjänst med så ordnar vi det. Vi finns här för er.
-draft: true
 
 ---
 # Priser
